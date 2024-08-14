@@ -41,4 +41,3 @@ Schema:
 
 ##### Sources
   the data that was acquired was from Environmental Projection Agency, with further research on specificications and add-ons found through Car and Driver / Hearst Autos, inc., and Kelley's Blue Book
-  
