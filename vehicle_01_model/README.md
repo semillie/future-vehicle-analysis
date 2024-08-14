@@ -1,6 +1,6 @@
 ## 1. Vehicle Model Research
 
-Here we will be working with the data to observe which make (manufacturers/car brands) and which year (2022 - 2024) will most likely be our future vehicle
+Here I worked with the data to observe which make (manufacturers/car brands) and which year (2022 - 2024) will most likely be the future vehicle
 
 -----
 1. Which make (manufacturers/car brands) offers the most vehicle options?
