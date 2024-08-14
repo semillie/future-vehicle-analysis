@@ -57,6 +57,6 @@ ORDER BY
 
 **Conclusion**
 
-The average price for the make (manufacturers/car brands) is between $40,920 - $62,334, with our preferred price sitting midground.
-However, the average price for the years is between $46,498 - $56,423, leaving our preferred price below what the average is for all three years.
-Applying the preferred price range to the data leaves us with twelve possible future vehicles.
+The average price for the make (manufacturers/car brands) is between $40,920 - $62,334, with the preferred price sitting midground.
+However, the average price for the years is between $46,498 - $56,423, leaving the preferred price below what the average is for all three years.
+Applying the preferred price range to the data results in twelve possible future vehicles.
