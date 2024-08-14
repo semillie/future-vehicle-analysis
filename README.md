@@ -1,5 +1,5 @@
 # Future Vehicle Research
-research using SQL to help pick out new car
+Research using SQL to help pick out new vehicle
 
 ## Contents
 - original data stored in .xlsx form
@@ -32,7 +32,7 @@ Add-On Feature Specs:
   - keyless remote start
 ```
 #### The Data
-  the original dataset held 2583 results of vehicles that were released from 2022 - 2024 with the specifications: year, make, model, number of cylinders, drivetrain, fuel type, the highway mileage per gallon, type of transmission, the size and type of vehicle, and the base model name.
+  The original dataset held 2583 results of vehicles that were released from 2022 - 2024 with the specifications: year, make, model, number of cylinders, drivetrain, fuel type, the highway mileage per gallon, type of transmission, the size and type of vehicle, and the base model name.
 
 
 Schema:
@@ -41,4 +41,4 @@ Schema:
 
 
 ##### Sources
-  the data that was acquired was from Environmental Projection Agency, with further research on specificications and add-ons found through Car and Driver / Hearst Autos, inc., and Kelley's Blue Book
+  The data that was acquired from Environmental Projection Agency, with further research on specificications and add-ons found through Car and Driver / Hearst Autos, inc., and Kelley's Blue Book
