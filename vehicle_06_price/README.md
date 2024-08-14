@@ -37,6 +37,8 @@ ORDER BY
 ```
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/61740f38-4438-47dd-ba36-5ca088073075">
 
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/39f1a427-4dde-45b5-ab22-3bca25d80560">
+
 -----
 **3. How many vehicles meet the price preference?**
 
