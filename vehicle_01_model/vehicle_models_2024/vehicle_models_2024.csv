@@ -1,0 +1,745 @@
+year,make,model,cylinders,drivetrain,fuel_type,hwy_mpg,transmission,size_class,base_model
+2024,Acura,Integra,4,Front-Wheel Drive,Premium,28,Manual,Large Cars,Integra
+2024,Acura,Integra A-Spec,4,Front-Wheel Drive,Premium,36,Manual,Large Cars,Integra
+2024,Aston Martin,Valour,12,Rear-Wheel Drive,Premium,18,Manual,Two Seaters,Valour
+2024,Audi,RS 6 Avant,8,All-Wheel Drive,Premium,22,Automatic,Midsize Station Wagons,RS
+2024,Audi,RS 7,8,All-Wheel Drive,Premium,22,Automatic,Midsize Cars,RS
+2024,Audi,RS Q8,8,All-Wheel Drive 4WD,Premium,19,Automatic,Standard SUV,RS Q8
+2024,Audi,S3,4,All-Wheel Drive,Premium,32,Automatic,Subcompact Cars,S3
+2024,Audi,S4,6,All-Wheel Drive,Premium,29,Automatic,Compact Cars,S4
+2024,Audi,S5 Cabriolet,6,All-Wheel Drive,Premium,27,Automatic,Subcompact Cars,S5
+2024,Audi,S5 Coupe,6,All-Wheel Drive,Premium,29,Automatic,Subcompact Cars,S5
+2024,Audi,S5 Sportback,6,All-Wheel Drive,Premium,29,Automatic,Midsize Cars,S5
+2024,Audi,S6,6,All-Wheel Drive,Premium,26,Automatic,Midsize Cars,S6
+2024,Audi,S7,6,All-Wheel Drive,Premium,26,Automatic,Midsize Cars,S7
+2024,Audi,S8,8,All-Wheel Drive,Premium,24,Automatic,Large Cars,S8
+2024,Audi,SQ5,6,All-Wheel Drive 4WD,Premium,24,Automatic,Small SUV,SQ5
+2024,Audi,SQ5 Sportback,6,All-Wheel Drive 4WD,Premium,24,Automatic,Small SUV,SQ5
+2024,Audi,SQ7,8,4-Wheel Drive,Premium,21,Automatic,Standard SUV,SQ7
+2024,Audi,SQ8,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,SQ8
+2024,Bentley,Bentayga,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,Bentayga
+2024,Bentley,Bentayga EWB,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,Bentayga
+2024,Bentley,Continental GT,8,All-Wheel Drive,Premium,22,Automatic,Subcompact Cars,Continental
+2024,Bentley,Continental GT,12,All-Wheel Drive,Premium,20,Automatic,Subcompact Cars,Continental
+2024,Bentley,Continental GTC,8,All-Wheel Drive,Premium,21,Automatic,Minicompact Cars,Continental
+2024,Bentley,Continental GTC,12,All-Wheel Drive,Premium,19,Automatic,Minicompact Cars,Continental
+2024,Bentley,Flying Spur,8,All-Wheel Drive,Premium,20,Automatic,Midsize Cars,Flying Spur
+2024,Bentley,Flying Spur,12,All-Wheel Drive,Premium,19,Automatic,Midsize Cars,Flying Spur
+2024,BMW,228i Gran Coupe,4,Front-Wheel Drive,Premium,34,Automatic,Compact Cars,2 Series
+2024,BMW,228i xDrive Gran Coupe,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,2 Series
+2024,BMW,230i Coupe,4,Rear-Wheel Drive,Premium,35,Automatic,Subcompact Cars,2 Series
+2024,BMW,230i xDrive Coupe,4,All-Wheel Drive,Premium,33,Automatic,Subcompact Cars,2 Series
+2024,BMW,330i Sedan,4,Rear-Wheel Drive,Premium,34,Automatic,Compact Cars,3 Series
+2024,BMW,330i xDrive Sedan,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,3 Series
+2024,BMW,430i Convertible,4,Rear-Wheel Drive,Premium,34,Automatic,Subcompact Cars,4 Series
+2024,BMW,430i Coupe,4,Rear-Wheel Drive,Premium,34,Automatic,Subcompact Cars,4 Series
+2024,BMW,430i Gran Coupe,4,Rear-Wheel Drive,Premium,34,Automatic,Compact Cars,4 Series
+2024,BMW,430i xDrive Convertible,4,All-Wheel Drive,Premium,33,Automatic,Subcompact Cars,4 Series
+2024,BMW,430i xDrive Coupe,4,All-Wheel Drive,Premium,33,Automatic,Subcompact Cars,4 Series
+2024,BMW,430i xDrive Gran Coupe,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,4 Series
+2024,BMW,530i Sedan,4,Rear-Wheel Drive,Premium,35,Automatic,Midsize Cars,5 Series
+2024,BMW,530i xDrive Sedan,4,All-Wheel Drive,Premium,35,Automatic,Midsize Cars,5 Series
+2024,BMW,540i xDrive Sedan,6,All-Wheel Drive,Premium,33,Automatic,Midsize Cars,5 Series
+2024,BMW,740i Sedan,6,Rear-Wheel Drive,Premium,31,Automatic,Large Cars,7 Series
+2024,BMW,740i xDrive Sedan,6,All-Wheel Drive,Premium,31,Automatic,Large Cars,7 Series
+2024,BMW,760i xDrive Sedan,8,All-Wheel Drive,Premium,25,Automatic,Large Cars,7 Series
+2024,BMW,840i Convertible,6,Rear-Wheel Drive,Premium,29,Automatic,Subcompact Cars,8 Series
+2024,BMW,840i Coupe,6,Rear-Wheel Drive,Premium,29,Automatic,Subcompact Cars,8 Series
+2024,BMW,840i Gran Coupe,6,Rear-Wheel Drive,Premium,29,Automatic,Midsize Cars,8 Series
+2024,BMW,840i xDrive Convertible,6,All-Wheel Drive,Premium,29,Automatic,Subcompact Cars,8 Series
+2024,BMW,840i xDrive Coupe,6,All-Wheel Drive,Premium,29,Automatic,Subcompact Cars,8 Series
+2024,BMW,840i xDrive Gran Coupe,6,All-Wheel Drive,Premium,29,Automatic,Midsize Cars,8 Series
+2024,BMW,Alpina B8 Gran Coupe,8,All-Wheel Drive,Premium,24,Automatic,Midsize Cars,8 Series
+2024,BMW,Alpina XB7,8,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,X7
+2024,BMW,M2 Coupe,6,Rear-Wheel Drive,Premium,23,Automatic,Subcompact Cars,M
+2024,BMW,M2 Coupe,6,Rear-Wheel Drive,Premium,24,Manual,Subcompact Cars,M
+2024,BMW,M235i xDrive Gran Coupe,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,2 Series
+2024,BMW,M240i Coupe,6,Rear-Wheel Drive,Premium,32,Automatic,Subcompact Cars,2 Series
+2024,BMW,M240i xDrive Coupe,6,All-Wheel Drive,Premium,32,Automatic,Subcompact Cars,2 Series
+2024,BMW,M3 Competition M xDrive Sedan,6,All-Wheel Drive,Premium,22,Automatic,Compact Cars,M
+2024,BMW,M3 Competition Sedan,6,Rear-Wheel Drive,Premium,23,Automatic,Compact Cars,M
+2024,BMW,M3 CS Sedan,6,All-Wheel Drive,Premium,22,Automatic,Compact Cars,M
+2024,BMW,M3 Sedan,6,Rear-Wheel Drive,Premium,23,Manual,Compact Cars,M
+2024,BMW,M340i Sedan,6,Rear-Wheel Drive,Premium,31,Automatic,Compact Cars,3 Series
+2024,BMW,M340i xDrive Sedan,6,All-Wheel Drive,Premium,31,Automatic,Compact Cars,3 Series
+2024,BMW,M4 Competition Coupe,6,Rear-Wheel Drive,Premium,23,Automatic,Subcompact Cars,M
+2024,BMW,M4 Competition M xDrive Convertible,6,All-Wheel Drive,Premium,23,Automatic,Subcompact Cars,M
+2024,BMW,M4 Competition M xDrive Coupe,6,All-Wheel Drive,Premium,22,Automatic,Subcompact Cars,M
+2024,BMW,M4 Coupe,6,Rear-Wheel Drive,Premium,23,Manual,Subcompact Cars,M
+2024,BMW,M440i Convertible,6,Rear-Wheel Drive,Premium,31,Automatic,Subcompact Cars,4 Series
+2024,BMW,M440i Coupe,6,Rear-Wheel Drive,Premium,32,Automatic,Subcompact Cars,4 Series
+2024,BMW,M440i Gran Coupe,6,Rear-Wheel Drive,Premium,32,Automatic,Compact Cars,4 Series
+2024,BMW,M440i xDrive Convertible,6,All-Wheel Drive,Premium,30,Automatic,Subcompact Cars,4 Series
+2024,BMW,M440i xDrive Coupe,6,All-Wheel Drive,Premium,31,Automatic,Subcompact Cars,4 Series
+2024,BMW,M440i xDrive Gran Coupe,6,All-Wheel Drive,Premium,30,Automatic,Compact Cars,4 Series
+2024,BMW,M8 Competition Convertible,8,All-Wheel Drive,Premium,22,Automatic,Subcompact Cars,M
+2024,BMW,M8 Competition Coupe,8,All-Wheel Drive,Premium,22,Automatic,Subcompact Cars,M
+2024,BMW,M8 Competition Gran Coupe,8,All-Wheel Drive,Premium,22,Automatic,Midsize Cars,M
+2024,BMW,M850i xDrive Convertible,8,All-Wheel Drive,Premium,24,Automatic,Subcompact Cars,8 Series
+2024,BMW,M850i xDrive Coupe,8,All-Wheel Drive,Premium,24,Automatic,Subcompact Cars,8 Series
+2024,BMW,M850i xDrive Gran Coupe,8,All-Wheel Drive,Premium,24,Automatic,Midsize Cars,8 Series
+2024,BMW,X1 M35i,4,All-Wheel Drive 4WD,Premium,31,Automatic,Small SUV,X1
+2024,BMW,X1 xDrive28i,4,All-Wheel Drive 4WD,Premium,34,Automatic,Small SUV,X1
+2024,BMW,X2 M35i,4,All-Wheel Drive 4WD,Premium,32,Automatic,Small SUV,X2
+2024,BMW,X2 xDrive28i,4,All-Wheel Drive 4WD,Premium,33,Automatic,Small SUV,X2
+2024,BMW,X3 M,6,All-Wheel Drive 4WD,Premium,20,Automatic,Small SUV,X3
+2024,BMW,X3 M Competition,6,All-Wheel Drive 4WD,Premium,20,Automatic,Small SUV,X3
+2024,BMW,X3 M40i,6,All-Wheel Drive 4WD,Premium,26,Automatic,Small SUV,X3
+2024,BMW,X3 sDrive30i,4,Rear-Wheel Drive 2WD,Premium,29,Automatic,Small SUV,X3
+2024,BMW,X3 xDrive30i,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,X3
+2024,BMW,X4 M,6,All-Wheel Drive 4WD,Premium,20,Automatic,Small SUV,X4
+2024,BMW,X4 M Competition,6,All-Wheel Drive 4WD,Premium,20,Automatic,Small SUV,X4
+2024,BMW,X4 M40i,6,All-Wheel Drive 4WD,Premium,26,Automatic,Small SUV,X4
+2024,BMW,X4 xDrive30i,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,X4
+2024,BMW,X5 M Competition,8,All-Wheel Drive 4WD,Premium,18,Automatic,Standard SUV,X5
+2024,BMW,X5 M60i xDrive,8,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,X5
+2024,BMW,X5 sDrive40i,6,Rear-Wheel Drive 2WD,Premium,27,Automatic,Standard SUV,X5
+2024,BMW,X5 xDrive40i,6,All-Wheel Drive 4WD,Premium,27,Automatic,Standard SUV,X5
+2024,BMW,X6 M Competition,8,All-Wheel Drive 4WD,Premium,18,Automatic,Standard SUV,X6
+2024,BMW,X6 M60i xDrive,8,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,X6
+2024,BMW,X6 xDrive40i,6,All-Wheel Drive 4WD,Premium,26,Automatic,Standard SUV,X6
+2024,BMW,X7 M60i xDrive,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,X7
+2024,BMW,X7 xDrive40i,6,All-Wheel Drive 4WD,Premium,25,Automatic,Standard SUV,X7
+2024,BMW,Z4 M40i,6,Rear-Wheel Drive,Premium,31,Automatic,Two Seaters,Z4
+2024,BMW,Z4 sDrive30i,4,Rear-Wheel Drive,Premium,33,Automatic,Two Seaters,Z4
+2024,Bugatti,Chiron Super Sport,16,All-Wheel Drive,Premium,11,Automatic,Two Seaters,Chiron
+2024,Buick,Enclave,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Enclave
+2024,Buick,Enclave,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Enclave
+2024,Buick,Encore GX,3,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Encore
+2024,Buick,Encore GX,3,Front-Wheel Drive 2WD,Regular,31,Automatic,Small SUV,Encore
+2024,Buick,Envista,3,Front-Wheel Drive,Regular,32,Automatic,Small Station Wagons,Envista
+2024,Cadillac,CT4,4,All-Wheel Drive,Premium,31,Automatic,Compact Cars,CT4
+2024,Cadillac,CT4,4,Rear-Wheel Drive,Premium,31,Automatic,Compact Cars,CT4
+2024,Cadillac,CT4 V,4,Rear-Wheel Drive,Premium,29,Automatic,Compact Cars,CT4
+2024,Cadillac,CT4 V,4,All-Wheel Drive,Premium,28,Automatic,Compact Cars,CT4
+2024,Cadillac,CT4 V,6,Rear-Wheel Drive,Premium,24,Automatic,Compact Cars,CT4
+2024,Cadillac,CT4 V,6,Rear-Wheel Drive,Premium,23,Manual,Compact Cars,CT4
+2024,Cadillac,CT5,4,Rear-Wheel Drive,Premium,33,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5,4,All-Wheel Drive,Premium,30,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5,6,Rear-Wheel Drive,Premium,27,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5,6,All-Wheel Drive,Premium,26,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5 V,6,Rear-Wheel Drive,Premium,27,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5 V,6,All-Wheel Drive,Premium,26,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5 V,8,Rear-Wheel Drive,Premium,21,Automatic,Midsize Cars,CT5
+2024,Cadillac,CT5 V,8,Rear-Wheel Drive,Premium,21,Manual,Midsize Cars,CT5
+2024,Cadillac,Escalade,6,4-Wheel Drive,Diesel,26,Automatic,Standard SUV,Escalade
+2024,Cadillac,Escalade,6,Front-Wheel Drive 2WD,Diesel,27,Automatic,Standard SUV,Escalade
+2024,Cadillac,Escalade,8,Front-Wheel Drive 2WD,Premium,19,Automatic,Standard SUV,Escalade
+2024,Cadillac,Escalade,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Escalade
+2024,Cadillac,Escalade V,8,4-Wheel Drive,Premium,16,Automatic,Standard SUV,Escalade
+2024,Cadillac,XT4,4,Front-Wheel Drive 2WD,Premium,29,Automatic,Small SUV,XT4
+2024,Cadillac,XT4,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,XT4
+2024,Cadillac,XT5,4,Front-Wheel Drive 2WD,Premium,29,Automatic,Small SUV,XT5
+2024,Cadillac,XT5,4,All-Wheel Drive 4WD,Premium,27,Automatic,Small SUV,XT5
+2024,Cadillac,XT5,6,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,XT5
+2024,Cadillac,XT5,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,XT5
+2024,Cadillac,XT6,4,Front-Wheel Drive 2WD,Premium,27,Automatic,Small SUV,XT6
+2024,Cadillac,XT6,4,All-Wheel Drive 4WD,Premium,26,Automatic,Small SUV,XT6
+2024,Cadillac,XT6,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,XT6
+2024,Cadillac,XT6,6,All-Wheel Drive 4WD,Regular,25,Automatic,Small SUV,XT6
+2024,Chevrolet,Blazer,4,Front-Wheel Drive 2WD,Regular,29,Automatic,Small SUV,Blazer
+2024,Chevrolet,Blazer,4,All-Wheel Drive 4WD,Regular,27,Automatic,Small SUV,Blazer
+2024,Chevrolet,Blazer,6,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Blazer
+2024,Chevrolet,Blazer,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,Blazer
+2024,Chevrolet,Camaro,6,Rear-Wheel Drive,Regular,26,Manual,Subcompact Cars,Camaro
+2024,Chevrolet,Camaro,6,Rear-Wheel Drive,Regular,29,Automatic,Subcompact Cars,Camaro
+2024,Chevrolet,Camaro,8,Rear-Wheel Drive,Premium,26,Automatic,Subcompact Cars,Camaro
+2024,Chevrolet,Camaro,8,Rear-Wheel Drive,Premium,24,Manual,Subcompact Cars,Camaro
+2024,Chevrolet,Colorado,4,Rear-Wheel Drive 2WD,Regular,24,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado,4,4-Wheel Drive,Regular,23,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado ZR2,4,4-Wheel Drive,Regular,17,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado ZR2 Bison,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Corvette,8,Rear-Wheel Drive,Premium,25,Automatic,Two Seaters,Corvette
+2024,Chevrolet,Corvette E-RAY,8,All-Wheel Drive,Premium,24,Automatic,Two Seaters,Corvette
+2024,Chevrolet,Corvette Z06,8,Rear-Wheel Drive,Premium,21,Automatic,Two Seaters,Corvette
+2024,Chevrolet,Corvette Z06 Carbon Aero,8,Rear-Wheel Drive,Premium,19,Automatic,Two Seaters,Corvette
+2024,Chevrolet,Equinox,4,Front-Wheel Drive 2WD,Regular,31,Automatic,Small SUV,Equinox
+2024,Chevrolet,Equinox,4,All-Wheel Drive 4WD,Regular,30,Automatic,Small SUV,Equinox
+2024,Chevrolet,Silverado,4,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,4,Rear-Wheel Drive 2WD,Regular,21,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,6,Rear-Wheel Drive 2WD,Diesel,29,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,6,4-Wheel Drive,Diesel,24,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,8,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,8,4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,8,Rear-Wheel Drive 2WD,Regular,21,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado ZR2,6,4-Wheel Drive,Diesel,22,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado ZR2,8,4-Wheel Drive,Premium,17,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Suburban,6,4-Wheel Drive,Diesel,26,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Suburban,6,Rear-Wheel Drive 2WD,Diesel,27,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Suburban,8,Rear-Wheel Drive 2WD,Regular,20,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Suburban,8,4-Wheel Drive,Regular,18,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Suburban,8,Rear-Wheel Drive 2WD,Premium,20,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Suburban,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Suburban
+2024,Chevrolet,Tahoe,6,4-Wheel Drive,Diesel,26,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Tahoe,6,Rear-Wheel Drive 2WD,Diesel,28,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Tahoe,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Tahoe,8,Rear-Wheel Drive 2WD,Regular,20,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Tahoe,8,Rear-Wheel Drive 2WD,Premium,20,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Tahoe,8,4-Wheel Drive,Regular,20,Automatic,Standard SUV,Tahoe
+2024,Chevrolet,Trailblazer,3,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Trailblazer
+2024,Chevrolet,Trailblazer,3,Front-Wheel Drive 2WD,Regular,33,Automatic,Small SUV,Trailblazer
+2024,Chevrolet,Traverse Limited,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Traverse
+2024,Chevrolet,Traverse Limited,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Traverse
+2024,Chevrolet,Trax,3,Front-Wheel Drive,Regular,32,Automatic,Small Station Wagons,Trax
+2024,Chrysler,Pacifica,6,All-Wheel Drive 4WD,Regular,25,Automatic,Minivan,Pacifica
+2024,Chrysler,Pacifica,6,Front-Wheel Drive 2WD,Regular,28,Automatic,Minivan,Pacifica
+2024,Chrysler,Voyager,6,Front-Wheel Drive 2WD,Regular,28,Automatic,Minivan,Voyager
+2024,Dodge,Durango,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Durango
+2024,Dodge,Durango,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Durango
+2024,Dodge,Durango,8,All-Wheel Drive 4WD,Midgrade,22,Automatic,Standard SUV,Durango
+2024,Dodge,Durango,8,Rear-Wheel Drive 2WD,Midgrade,22,Automatic,Standard SUV,Durango
+2024,Dodge,Durango SRT,8,All-Wheel Drive 4WD,Premium,17,Automatic,Standard SUV,Durango
+2024,Dodge,Hornet,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Hornet
+2024,Ferrari,812 Competizione,12,Rear-Wheel Drive,Premium,16,Automatic,Two Seaters,812 Competizione
+2024,Ferrari,Daytona SP3,12,Rear-Wheel Drive,Premium,16,Automatic,Two Seaters,Daytona SP3
+2024,Ferrari,Purosangue,12,All-Wheel Drive 4WD,Premium,15,Automatic,Standard SUV,Purosangue
+2024,Ferrari,Roma,8,Rear-Wheel Drive,Premium,22,Automatic,Subcompact Cars,Roma
+2024,Ferrari,Roma Spider,8,Rear-Wheel Drive,Premium,22,Automatic,Minicompact Cars,Roma
+2024,Ford,Bronco,4,Part-time 4-Wheel Drive,Regular,21,Automatic,Small SUV,Bronco
+2024,Ford,Bronco,4,Part-time 4-Wheel Drive,Regular,21,Manual,Small SUV,Bronco
+2024,Ford,Bronco,6,Part-time 4-Wheel Drive,Regular,21,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Badlands,4,Part-time 4-Wheel Drive,Regular,18,Manual,Small SUV,Bronco
+2024,Ford,Bronco Badlands,6,Part-time 4-Wheel Drive,Regular,17,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Black Diamond,4,Part-time 4-Wheel Drive,Regular,18,Manual,Small SUV,Bronco
+2024,Ford,Bronco Black Diamond,4,Part-time 4-Wheel Drive,Regular,18,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Black Diamond,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Raptor,6,Part-time 4-Wheel Drive,Regular,16,Automatic,Standard SUV,Bronco
+2024,Ford,Bronco Sasquatch,4,Part-time 4-Wheel Drive,Regular,18,Manual,Small SUV,Bronco
+2024,Ford,Bronco Sasquatch,4,Part-time 4-Wheel Drive,Regular,17,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Sasquatch,6,Part-time 4-Wheel Drive,Regular,17,Automatic,Small SUV,Bronco
+2024,Ford,Bronco Sport,3,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Bronco Sport
+2024,Ford,Bronco Sport,4,Part-time 4-Wheel Drive,Regular,26,Automatic,Small SUV,Bronco Sport
+2024,Ford,Edge,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Edge
+2024,Ford,Edge,6,All-Wheel Drive 4WD,Regular,25,Automatic,Small SUV,Edge
+2024,Ford,Escape,3,Front-Wheel Drive 2WD,Regular,34,Automatic,Small SUV,Escape
+2024,Ford,Escape,3,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,Escape
+2024,Ford,Escape,4,All-Wheel Drive 4WD,Regular,31,Automatic,Small SUV,Escape
+2024,Ford,Expedition,6,Rear-Wheel Drive 2WD,Regular,23,Automatic,Standard SUV,Expedition
+2024,Ford,Expedition,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard SUV,Expedition
+2024,Ford,Expedition Timberline,6,Part-time 4-Wheel Drive,Regular,19,Automatic,Standard SUV,Expedition
+2024,Ford,Explorer,4,Rear-Wheel Drive 2WD,Regular,28,Automatic,Standard SUV,Explorer
+2024,Ford,Explorer,4,Part-time 4-Wheel Drive,Regular,27,Automatic,Standard SUV,Explorer
+2024,Ford,Explorer,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard SUV,Explorer
+2024,Ford,Explorer,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Explorer
+2024,Ford,Explorer Timberline,4,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard SUV,Explorer
+2024,Ford,F150 Pickup,6,Rear-Wheel Drive 2WD,Regular,25,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Pickup,8,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Pickup,8,Rear-Wheel Drive 2WD,Regular,24,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,F150
+2024,Ford,Maverick,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small Pickup Truck,Maverick
+2024,Ford,Maverick,4,Front-Wheel Drive 2WD,Regular,30,Automatic,Small Pickup Truck,Maverick
+2024,Ford,Maverick Tremor,4,All-Wheel Drive 4WD,Regular,24,Automatic,Small Pickup Truck,Maverick
+2024,Ford,Mustang,4,Rear-Wheel Drive,Regular,33,Automatic,Subcompact Cars,Mustang
+2024,Ford,Mustang,8,Rear-Wheel Drive,Regular,23,Manual,Subcompact Cars,Mustang
+2024,Ford,Mustang,8,Rear-Wheel Drive,Regular,24,Automatic,Subcompact Cars,Mustang
+2024,Ford,Mustang Dark Horse,8,Rear-Wheel Drive,Regular,22,Manual,Subcompact Cars,Mustang
+2024,Ford,Mustang Dark Horse,8,Rear-Wheel Drive,Regular,22,Automatic,Subcompact Cars,Mustang
+2024,Ford,Mustang Performance Package,4,Rear-Wheel Drive,Regular,29,Automatic,Subcompact Cars,Mustang
+2024,Ford,Ranger,4,Rear-Wheel Drive 2WD,Regular,25,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,Ranger
+2024,Genesis,G70,4,Rear-Wheel Drive,Premium,29,Automatic,Compact Cars,G70
+2024,Genesis,G70,4,All-Wheel Drive,Premium,28,Automatic,Compact Cars,G70
+2024,Genesis,G80,4,All-Wheel Drive,Premium,30,Automatic,Large Cars,G80
+2024,Genesis,G80,6,All-Wheel Drive,Premium,25,Automatic,Large Cars,G80
+2024,Genesis,G90,6,All-Wheel Drive,Premium,26,Automatic,Large Cars,G90
+2024,Genesis,GV70,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,GV70
+2024,Genesis,GV70,6,All-Wheel Drive 4WD,Premium,24,Automatic,Small SUV,GV70
+2024,Genesis,GV80,4,All-Wheel Drive 4WD,Premium,24,Automatic,Standard SUV,GV80
+2024,Genesis,GV80,6,All-Wheel Drive 4WD,Premium,23,Automatic,Standard SUV,GV80
+2024,GMC,Canyon,4,4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon,4,Rear-Wheel Drive 2WD,Regular,23,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon AT4X,4,4-Wheel Drive,Regular,17,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon AT4X AEV,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Sierra,4,4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,4,Rear-Wheel Drive 2WD,Regular,21,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,6,Rear-Wheel Drive 2WD,Diesel,29,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,8,Rear-Wheel Drive 2WD,Regular,20,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,8,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,8,4-Wheel Drive,Premium,19,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra AT4X,6,4-Wheel Drive,Diesel,20,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra AT4X,8,4-Wheel Drive,Premium,16,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Terrain,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Terrain
+2024,GMC,Terrain,4,Front-Wheel Drive 2WD,Regular,29,Automatic,Small SUV,Terrain
+2024,GMC,Yukon,6,Rear-Wheel Drive 2WD,Diesel,27,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon,6,4-Wheel Drive,Diesel,26,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon,8,Rear-Wheel Drive 2WD,Premium,20,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon,8,4-Wheel Drive,Regular,20,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon,8,Rear-Wheel Drive 2WD,Regular,20,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,6,Rear-Wheel Drive 2WD,Diesel,27,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,6,4-Wheel Drive,Diesel,26,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,8,Rear-Wheel Drive 2WD,Premium,19,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,8,4-Wheel Drive,Regular,18,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Yukon
+2024,GMC,Yukon XL,8,Rear-Wheel Drive 2WD,Regular,20,Automatic,Standard SUV,Yukon
+2024,Honda,Accord,4,Front-Wheel Drive,Regular,37,Automatic,Large Cars,Accord
+2024,Honda,Civic,4,Front-Wheel Drive,Regular,42,Automatic,Midsize Cars,Civic
+2024,Honda,Civic,4,Front-Wheel Drive,Regular,37,Manual,Large Cars,Civic
+2024,Honda,Civic,4,Front-Wheel Drive,Premium,37,Manual,Midsize Cars,Civic
+2024,Honda,Civic,4,Front-Wheel Drive,Premium,28,Manual,Large Cars,Civic
+2024,Honda,Civic,4,Front-Wheel Drive,Regular,38,Automatic,Large Cars,Civic
+2024,Honda,CR-V,4,Front-Wheel Drive 2WD,Regular,34,Automatic,Small SUV,CR-V
+2024,Honda,CR-V,4,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,CR-V
+2024,Honda,HR-V,4,Front-Wheel Drive,Regular,32,Automatic,Small Station Wagons,HR-V
+2024,Honda,HR-V,4,All-Wheel Drive,Regular,30,Automatic,Small Station Wagons,HR-V
+2024,Honda,Odyssey,6,Front-Wheel Drive 2WD,Regular,28,Automatic,Minivan,Odyssey
+2024,Honda,Passport,6,All-Wheel Drive 4WD,Regular,24,Automatic,Small SUV,Passport
+2024,Honda,Pilot,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Pilot
+2024,Honda,Pilot,6,Front-Wheel Drive 2WD,Regular,27,Automatic,Small SUV,Pilot
+2024,Honda,Pilot Touring/Elite/Black,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Pilot
+2024,Honda,Pilot TrailSport,6,All-Wheel Drive 4WD,Regular,23,Automatic,Standard SUV,Pilot
+2024,Honda,Ridgeline,6,All-Wheel Drive 4WD,Regular,24,Automatic,Standard Pickup Truck,Ridgeline
+2024,Honda,Ridgeline TrailSport,6,All-Wheel Drive 4WD,Regular,23,Automatic,Standard Pickup Truck,Ridgeline
+2024,Hyundai,Elantra,4,Front-Wheel Drive,Regular,35,Automatic,Midsize Cars,Elantra
+2024,Hyundai,Elantra N,4,Front-Wheel Drive,Premium,29,Manual,Midsize Cars,Elantra
+2024,Hyundai,Elantra N,4,Front-Wheel Drive,Premium,27,Automatic,Midsize Cars,Elantra
+2024,Hyundai,Kona,4,Front-Wheel Drive 2WD,Regular,32,Automatic,Small SUV,Kona
+2024,Hyundai,Kona,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Kona
+2024,Hyundai,Palisade,6,All-Wheel Drive 4WD,Regular,24,Automatic,Small SUV,Palisade
+2024,Hyundai,Palisade,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,Palisade
+2024,Hyundai,Santa Cruz,4,All-Wheel Drive 4WD,Regular,27,Automatic,Small SUV,Santa Cruz
+2024,Hyundai,Santa Cruz,4,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,Santa Cruz
+2024,Hyundai,Santa Fe,4,Front-Wheel Drive 2WD,Regular,29,Automatic,Small SUV,Santa Fe
+2024,Hyundai,Santa Fe,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Santa Fe
+2024,Hyundai,Santa Fe XRT,4,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Santa Fe
+2024,Hyundai,Sonata,4,All-Wheel Drive,Regular,34,Automatic,Large Cars,Sonata
+2024,Hyundai,Sonata,4,Front-Wheel Drive,Regular,36,Automatic,Large Cars,Sonata
+2024,Hyundai,Tucson,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Tucson
+2024,Hyundai,Tucson,4,Front-Wheel Drive 2WD,Regular,32,Automatic,Small SUV,Tucson
+2024,Hyundai,Venue,4,Front-Wheel Drive 2WD,Regular,33,Automatic,Small SUV,Venue
+2024,INEOS Automotive,Grenadier,6,4-Wheel Drive,Premium,15,Automatic,Standard SUV,Grenadier
+2024,INEOS Automotive,Grenadier Trialmaster Edition,6,4-Wheel Drive,Premium,14,Automatic,Standard SUV,Grenadier
+2024,Infiniti,Q50,6,Rear-Wheel Drive,Premium,29,Automatic,Midsize Cars,Q50
+2024,Infiniti,Q50,6,All-Wheel Drive,Premium,27,Automatic,Midsize Cars,Q50
+2024,Infiniti,Q50 Red Sport,6,Rear-Wheel Drive,Premium,26,Automatic,Midsize Cars,Q50
+2024,Infiniti,Q50 Red Sport,6,All-Wheel Drive,Premium,26,Automatic,Midsize Cars,Q50
+2024,Infiniti,QX50,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,QX50
+2024,Infiniti,QX50,4,Front-Wheel Drive 2WD,Premium,29,Automatic,Small SUV,QX50
+2024,Infiniti,QX55,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,QX55
+2024,Infiniti,QX60,6,Front-Wheel Drive 2WD,Premium,26,Automatic,Standard SUV,QX60
+2024,Infiniti,QX60,6,All-Wheel Drive 4WD,Premium,25,Automatic,Standard SUV,QX60
+2024,Infiniti,QX80,8,4-Wheel Drive,Premium,19,Automatic,Standard SUV,QX80
+2024,Infiniti,QX80,8,Rear-Wheel Drive 2WD,Premium,20,Automatic,Standard SUV,QX80
+2024,Jaguar,E-Pace,4,All-Wheel Drive 4WD,Premium,26,Automatic,Small SUV,E-Pace
+2024,Jaguar,F-Pace,4,All-Wheel Drive 4WD,Premium,27,Automatic,Small SUV,F-Pace
+2024,Jaguar,F-Pace SVR,8,All-Wheel Drive 4WD,Premium,21,Automatic,Small SUV,F-Pace
+2024,Jaguar,F-Type P450 Convertible,8,Rear-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,F-Type P450 Coupe,8,Rear-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,F-Type P450 R-Dynamic Convertible,8,All-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,F-Type P450 R-Dynamic Coupe,8,All-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,F-Type R Convertible,8,All-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,F-Type R Coupe,8,All-Wheel Drive,Premium,24,Automatic,Two Seaters,F-Type
+2024,Jaguar,XF P250,4,Rear-Wheel Drive,Premium,30,Automatic,Midsize Cars,XF
+2024,Jaguar,XF P300,4,All-Wheel Drive,Premium,28,Automatic,Midsize Cars,XF
+2024,Jeep,Compass,4,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,Compass
+2024,Jeep,Gladiator,6,4-Wheel Drive,Regular,21,Manual,Standard Pickup Truck,Gladiator
+2024,Jeep,Gladiator,6,4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Gladiator
+2024,Jeep,Grand Cherokee,6,All-Wheel Drive 4WD,Regular,26,Automatic,Standard SUV,Grand Cherokee
+2024,Jeep,Grand Cherokee,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Grand Cherokee
+2024,Jeep,Grand Cherokee L,6,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Grand Cherokee
+2024,Jeep,Grand Cherokee L,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Grand Cherokee
+2024,Jeep,Grand Cherokee L,8,All-Wheel Drive 4WD,Midgrade,22,Automatic,Standard SUV,Grand Cherokee
+2024,Jeep,Grand Wagoneer,6,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,Grand Wagoneer
+2024,Jeep,Grand Wagoneer,8,All-Wheel Drive 4WD,Premium,18,Automatic,Standard SUV,Grand Wagoneer
+2024,Jeep,Grand Wagoneer L,6,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,Grand Wagoneer
+2024,Jeep,Wagoneer,6,All-Wheel Drive 4WD,Regular,23,Automatic,Standard SUV,Wagoneer
+2024,Jeep,Wagoneer,6,Rear-Wheel Drive 2WD,Regular,24,Automatic,Standard SUV,Wagoneer
+2024,Jeep,Wagoneer L,6,Rear-Wheel Drive 2WD,Regular,24,Automatic,Standard SUV,Wagoneer
+2024,Jeep,Wagoneer L,6,All-Wheel Drive 4WD,Regular,23,Automatic,Standard SUV,Wagoneer
+2024,Jeep,Wrangler,4,4-Wheel Drive,Regular,22,Automatic,Small SUV,Wrangler
+2024,Jeep,Wrangler,6,4-Wheel Drive,Regular,23,Automatic,Small SUV,Wrangler
+2024,Jeep,Wrangler,6,4-Wheel Drive,Regular,22,Manual,Small SUV,Wrangler
+2024,Jeep,Wrangler,8,4-Wheel Drive,Premium,16,Automatic,Small SUV,Wrangler
+2024,Kia,Carnival,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Minivan,Carnival
+2024,Kia,Forte,4,Front-Wheel Drive,Regular,35,Automatic,Midsize Cars,Forte
+2024,Kia,Forte,4,Front-Wheel Drive,Regular,31,Manual,Midsize Cars,Forte
+2024,Kia,Forte FE,4,Front-Wheel Drive,Regular,41,Automatic,Midsize Cars,Forte
+2024,Kia,K5,4,Front-Wheel Drive,Regular,32,Automatic,Large Cars,K5
+2024,Kia,K5,4,All-Wheel Drive,Regular,33,Automatic,Large Cars,K5
+2024,Kia,Niro,4,Front-Wheel Drive 2WD,Regular,45,Automatic,Small SUV,Niro
+2024,Kia,Niro FE,4,Front-Wheel Drive 2WD,Regular,54,Automatic,Small SUV,Niro
+2024,Kia,Seltos,4,Front-Wheel Drive 2WD,Regular,34,Automatic,Small SUV,Seltos
+2024,Kia,Seltos,4,All-Wheel Drive 4WD,Regular,27,Automatic,Small SUV,Seltos
+2024,Kia,Sorento,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Sorento
+2024,Kia,Sorento,4,Front-Wheel Drive 2WD,Regular,31,Automatic,Small SUV,Sorento
+2024,Kia,Soul,4,Front-Wheel Drive,Regular,33,Automatic,Small Station Wagons,Soul
+2024,Kia,Sportage,4,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Sportage
+2024,Kia,Sportage,4,Front-Wheel Drive 2WD,Regular,33,Automatic,Small SUV,Sportage
+2024,Kia,Sportage X-pro,4,All-Wheel Drive 4WD,Regular,30,Automatic,Small SUV,Sportage
+2024,Kia,Telluride,6,All-Wheel Drive 4WD,Regular,24,Automatic,Small SUV,Telluride
+2024,Kia,Telluride,6,Front-Wheel Drive 2WD,Regular,26,Automatic,Small SUV,Telluride
+2024,Lamborghini,Huracan Coupe,10,Rear-Wheel Drive,Premium,18,Automatic,Two Seaters,Huracan
+2024,Lamborghini,Huracan Spyder,10,All-Wheel Drive,Premium,18,Automatic,Two Seaters,Huracan
+2024,Lamborghini,Huracan Sterrato,10,All-Wheel Drive,Premium,18,Automatic,Two Seaters,Huracan
+2024,Lamborghini,Urus Performante,8,All-Wheel Drive,Premium,19,Automatic,Small Station Wagons,Urus
+2024,Lamborghini,Urus S,8,All-Wheel Drive 4WD,Premium,19,Automatic,Standard SUV,Urus
+2024,Land Rover,Defender 110,4,4-Wheel Drive,Premium,20,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 110,8,4-Wheel Drive,Premium,19,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 110 MHEV,6,4-Wheel Drive,Premium,20,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 130 Outbound,6,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 130 P300 MHEV,6,4-Wheel Drive,Premium,20,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 130 P400 MHEV,6,4-Wheel Drive,Premium,20,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 90,4,4-Wheel Drive,Premium,21,Automatic,Standard SUV,Defender
+2024,Land Rover,Defender 90,8,4-Wheel Drive,Premium,19,Automatic,Standard SUV,Defender
+2024,Land Rover,Discovery,4,4-Wheel Drive,Premium,24,Automatic,Standard SUV,Discovery
+2024,Land Rover,Discovery Sport,4,All-Wheel Drive 4WD,Premium,23,Automatic,Small SUV,Discovery
+2024,Land Rover,Range Rover Evoque,4,All-Wheel Drive 4WD,Premium,27,Automatic,Small SUV,Range Rover
+2024,Land Rover,Range Rover P360 LWB MHEV,6,4-Wheel Drive,Premium,24,Automatic,Standard SUV,Range Rover
+2024,Land Rover,Range Rover Velar,4,All-Wheel Drive 4WD,Premium,26,Automatic,Small SUV,Range Rover
+2024,Land Rover,Range Rover Velar P340 MHEV,6,4-Wheel Drive,Premium,26,Automatic,Small SUV,Range Rover
+2024,Land Rover,Range Rover Velar P400 MHEV,6,4-Wheel Drive,Premium,25,Automatic,Small SUV,Range Rover
+2024,Lexus,ES 250,4,All-Wheel Drive,Regular,34,Automatic,Midsize Cars,ES
+2024,Lexus,ES 300h,4,Front-Wheel Drive,Regular,44,Automatic,Midsize Cars,ES
+2024,Lexus,ES 350,6,Front-Wheel Drive,Regular,32,Automatic,Midsize Cars,ES
+2024,Lexus,ES 350 F Sport,6,Front-Wheel Drive,Regular,31,Automatic,Midsize Cars,ES
+2024,Lexus,GX 550,6,4-Wheel Drive,Premium,21,Automatic,Standard SUV,GX
+2024,Lexus,IS 300,4,Rear-Wheel Drive,Premium,31,Automatic,Compact Cars,IS
+2024,Lexus,IS 300,6,All-Wheel Drive,Premium,26,Automatic,Compact Cars,IS
+2024,Lexus,IS 350,6,Rear-Wheel Drive,Premium,28,Automatic,Compact Cars,IS
+2024,Lexus,IS 350,6,All-Wheel Drive,Premium,26,Automatic,Compact Cars,IS
+2024,Lexus,IS 500,8,Rear-Wheel Drive,Premium,25,Automatic,Compact Cars,IS
+2024,Lexus,LC 500,8,Rear-Wheel Drive,Premium,24,Automatic,Subcompact Cars,LC
+2024,Lexus,LC 500 Convertible,8,Rear-Wheel Drive,Premium,25,Automatic,Minicompact Cars,LC
+2024,Lexus,LC 500h,6,Rear-Wheel Drive,Premium,33,Automatic,Subcompact Cars,LC
+2024,Lexus,LS 500,6,All-Wheel Drive,Premium,27,Automatic,Midsize Cars,LS
+2024,Lexus,LS 500,6,Rear-Wheel Drive,Premium,29,Automatic,Midsize Cars,LS
+2024,Lexus,LS 500h,6,All-Wheel Drive,Premium,29,Automatic,Midsize Cars,LS
+2024,Lexus,LX 600,6,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,LX
+2024,Lexus,NX 250,4,Front-Wheel Drive 2WD,Regular,33,Automatic,Small SUV,NX
+2024,Lexus,NX 250,4,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,NX
+2024,Lexus,NX 350,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,NX
+2024,Lexus,NX 350 F Sport,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,NX
+2024,Lexus,NX 350h,4,All-Wheel Drive 4WD,Premium,37,Automatic,Small SUV,NX
+2024,Lexus,RC 300,4,Rear-Wheel Drive,Premium,31,Automatic,Subcompact Cars,RC
+2024,Lexus,RC 300,6,All-Wheel Drive,Premium,26,Automatic,Subcompact Cars,RC
+2024,Lexus,RC 350,6,All-Wheel Drive,Premium,26,Automatic,Subcompact Cars,RC
+2024,Lexus,RC 350,6,Rear-Wheel Drive,Premium,28,Automatic,Subcompact Cars,RC
+2024,Lexus,RC F,8,Rear-Wheel Drive,Premium,24,Automatic,Subcompact Cars,RC
+2024,Lexus,RX 350,4,Front-Wheel Drive 2WD,Premium,29,Automatic,Small SUV,RX
+2024,Lexus,RX 350,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,RX
+2024,Lexus,RX 350h,4,All-Wheel Drive 4WD,Premium,34,Automatic,Small SUV,RX
+2024,Lexus,RX 500h,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,RX
+2024,Lexus,TX 350,4,All-Wheel Drive 4WD,Premium,26,Automatic,Standard SUV,TX
+2024,Lexus,TX 350,4,Front-Wheel Drive 2WD,Premium,27,Automatic,Standard SUV,TX
+2024,Lexus,TX 500h,4,All-Wheel Drive 4WD,Premium,28,Automatic,Standard SUV,TX
+2024,Lexus,UX 250h,4,All-Wheel Drive,Regular,38,Automatic,Compact Cars,UX
+2024,Lexus,UX 250h,4,Front-Wheel Drive,Regular,41,Automatic,Compact Cars,UX
+2024,Lincoln,Aviator,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard SUV,Aviator
+2024,Lincoln,Aviator,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard SUV,Aviator
+2024,Lincoln,Corsair,4,Front-Wheel Drive 2WD,Regular,30,Automatic,Small SUV,Corsair
+2024,Lincoln,Corsair,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Corsair
+2024,Lincoln,Nautilus,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Nautilus
+2024,Lincoln,Navigator,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard SUV,Navigator
+2024,Lotus,Emira,6,Rear-Wheel Drive,Regular,24,Manual,Two Seaters,Emira
+2024,Maserati,Ghibli GT,6,Rear-Wheel Drive,Premium,25,Automatic,Midsize Cars,Ghibli
+2024,Maserati,Ghibli Modena,6,Rear-Wheel Drive,Premium,25,Automatic,Midsize Cars,Ghibli
+2024,Maserati,Ghibli Modena,6,All-Wheel Drive,Premium,25,Automatic,Midsize Cars,Ghibli
+2024,Maserati,Ghibli Trofeo,8,Rear-Wheel Drive,Premium,20,Automatic,Midsize Cars,Ghibli
+2024,Maserati,Grancabrio Trofeo,6,All-Wheel Drive,Premium,26,Automatic,Subcompact Cars,Grancabrio
+2024,Maserati,GranTurismo Modena,6,All-Wheel Drive,Premium,27,Automatic,Subcompact Cars,GranTurismo
+2024,Maserati,GranTurismo Trofeo,6,All-Wheel Drive,Premium,27,Automatic,Subcompact Cars,GranTurismo
+2024,Maserati,Grecale GT,4,All-Wheel Drive 4WD,Premium,29,Automatic,Small SUV,Grecale
+2024,Maserati,Grecale Modena,4,All-Wheel Drive 4WD,Premium,29,Automatic,Small SUV,Grecale
+2024,Maserati,Grecale Trofeo,6,All-Wheel Drive 4WD,Premium,25,Automatic,Small SUV,Grecale
+2024,Maserati,Levante GT,6,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,Levante
+2024,Maserati,Levante Modena,6,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,Levante
+2024,Maserati,Levante Modena V8,8,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,Levante
+2024,Maserati,Levante Trofeo,8,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,Levante
+2024,Maserati,MC20,6,Rear-Wheel Drive,Premium,25,Automatic,Two Seaters,MC20
+2024,Maserati,MC20 Spyder,6,Rear-Wheel Drive,Premium,25,Automatic,Two Seaters,MC20
+2024,Maserati,Quattroporte GT,6,Rear-Wheel Drive,Premium,25,Automatic,Large Cars,Quattroporte
+2024,Maserati,Quattroporte Modena,6,All-Wheel Drive,Premium,25,Automatic,Large Cars,Quattroporte
+2024,Maserati,Quattroporte Modena,6,Rear-Wheel Drive,Premium,25,Automatic,Large Cars,Quattroporte
+2024,Maserati,Quattroporte Trofeo,8,Rear-Wheel Drive,Premium,20,Automatic,Large Cars,Quattroporte
+2024,Mazda,CX-30,4,4-Wheel Drive,Regular,33,Automatic,Small SUV,CX-30
+2024,Mazda,CX-5,4,4-Wheel Drive,Regular,29,Automatic,Small SUV,CX-5
+2024,Mazda,CX-50,4,4-Wheel Drive,Regular,30,Automatic,Small SUV,CX-50
+2024,Mazda,CX-90,6,4-Wheel Drive,Regular,28,Automatic,Standard SUV,CX-90
+2024,Mazda,CX-90,6,4-Wheel Drive,Premium,28,Automatic,Standard SUV,CX-90
+2024,Mazda,MX-5,4,Rear-Wheel Drive,Premium,34,Manual,Two Seaters,MX-5
+2024,Mazda,MX-5,4,Rear-Wheel Drive,Premium,35,Automatic,Two Seaters,MX-5
+2024,Mercedes-Benz,AMG C43 4matic,4,All-Wheel Drive,Premium,28,Automatic,Compact Cars,C-Class
+2024,Mercedes-Benz,AMG CLA35 4matic,4,All-Wheel Drive,Premium,29,Automatic,Compact Cars,CLA-Class
+2024,Mercedes-Benz,AMG CLA45 S 4matic,4,All-Wheel Drive,Premium,28,Automatic,Compact Cars,CLA-Class
+2024,Mercedes-Benz,AMG G63,8,4-Wheel Drive,Premium,16,Automatic,Standard SUV,G-Class
+2024,Mercedes-Benz,AMG G63 4x4 Squared,8,4-Wheel Drive,Premium,12,Automatic,Standard SUV,G-Class
+2024,Mercedes-Benz,AMG GLA35 4matic,4,All-Wheel Drive,Premium,28,Automatic,Small Station Wagons,GLA-Class
+2024,Mercedes-Benz,AMG GLB35 4matic,4,All-Wheel Drive,Premium,26,Automatic,Midsize Station Wagons,GLB-Class
+2024,Mercedes-Benz,AMG GLC43 4matic,4,All-Wheel Drive 4WD,Premium,25,Automatic,Small SUV,GLC-Class
+2024,Mercedes-Benz,AMG GLC43 4matic Coupe,4,All-Wheel Drive 4WD,Premium,24,Automatic,Small SUV,GLC-Class
+2024,Mercedes-Benz,AMG GLE53 4matic Plus,6,All-Wheel Drive 4WD,Premium,23,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,AMG GLE53 4matic Plus Coupe,6,All-Wheel Drive 4WD,Premium,22,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,AMG GLE63 S 4matic Plus,8,All-Wheel Drive 4WD,Premium,19,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,AMG GLE63 S 4matic Plus Coupe,8,All-Wheel Drive 4WD,Premium,19,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,AMG GLS63 4matic Plus,8,All-Wheel Drive 4WD,Premium,18,Automatic,Standard SUV,GLS-Class
+2024,Mercedes-Benz,AMG GT 43 4matic Plus,6,All-Wheel Drive,Premium,24,Automatic,Compact Cars,AMG GT
+2024,Mercedes-Benz,AMG GT 53 4matic Plus,6,All-Wheel Drive,Premium,24,Automatic,Compact Cars,AMG GT
+2024,Mercedes-Benz,AMG GT 55 4matic Plus (coupe),8,All-Wheel Drive,Premium,20,Automatic,Subcompact Cars,AMG GT
+2024,Mercedes-Benz,AMG GT 63 4matic Plus,8,All-Wheel Drive,Premium,21,Automatic,Compact Cars,AMG GT
+2024,Mercedes-Benz,AMG GT 63 4matic Plus (coupe),8,All-Wheel Drive,Premium,20,Automatic,Subcompact Cars,AMG GT
+2024,Mercedes-Benz,AMG SL43,4,Rear-Wheel Drive,Premium,27,Automatic,Two Seaters,SL-Class
+2024,Mercedes-Benz,AMG SL55 4matic Plus,8,All-Wheel Drive,Premium,21,Automatic,Minicompact Cars,SL-Class
+2024,Mercedes-Benz,AMG SL63 4matic Plus,8,All-Wheel Drive,Premium,21,Automatic,Minicompact Cars,SL-Class
+2024,Mercedes-Benz,C300,4,Rear-Wheel Drive,Premium,36,Automatic,Compact Cars,C-Class
+2024,Mercedes-Benz,C300 4matic,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,C-Class
+2024,Mercedes-Benz,CLA250,4,Front-Wheel Drive,Premium,36,Automatic,Compact Cars,CLA-Class
+2024,Mercedes-Benz,CLA250 4matic,4,All-Wheel Drive,Premium,35,Automatic,Compact Cars,CLA-Class
+2024,Mercedes-Benz,CLE300 4matic (Convertible),4,All-Wheel Drive,Premium,32,Automatic,Subcompact Cars,CLE-Class
+2024,Mercedes-Benz,CLE300 4matic (Coupe),4,All-Wheel Drive,Premium,34,Automatic,Subcompact Cars,CLE-Class
+2024,Mercedes-Benz,CLE450 4matic (Convertible),6,All-Wheel Drive,Premium,32,Automatic,Subcompact Cars,CLE-Class
+2024,Mercedes-Benz,CLE450 4matic (Coupe),6,All-Wheel Drive,Premium,33,Automatic,Subcompact Cars,CLE-Class
+2024,Mercedes-Benz,E350 4matic,4,All-Wheel Drive,Premium,33,Automatic,Midsize Cars,E-Class
+2024,Mercedes-Benz,E450 4matic,6,All-Wheel Drive,Premium,31,Automatic,Midsize Cars,E-Class
+2024,Mercedes-Benz,E450 4matic All-Terrain (wagon),6,All-Wheel Drive,Premium,31,Automatic,Midsize Station Wagons,E-Class
+2024,Mercedes-Benz,G550,8,4-Wheel Drive,Premium,16,Automatic,Standard SUV,G-Class
+2024,Mercedes-Benz,GLA250 4matic,4,All-Wheel Drive 4WD,Premium,32,Automatic,Small SUV,GLA-Class
+2024,Mercedes-Benz,GLB250 4matic,4,All-Wheel Drive 4WD,Premium,32,Automatic,Small SUV,GLB-Class
+2024,Mercedes-Benz,GLC300,4,Rear-Wheel Drive 2WD,Premium,33,Automatic,Small SUV,GLC-Class
+2024,Mercedes-Benz,GLC300 4matic,4,All-Wheel Drive 4WD,Premium,32,Automatic,Small SUV,GLC-Class
+2024,Mercedes-Benz,GLC300 4matic Coupe,4,All-Wheel Drive 4WD,Premium,30,Automatic,Small SUV,GLC-Class
+2024,Mercedes-Benz,GLE350,4,Rear-Wheel Drive 2WD,Premium,28,Automatic,Small SUV,GLE-Class
+2024,Mercedes-Benz,GLE350 4matic,4,All-Wheel Drive 4WD,Premium,27,Automatic,Small SUV,GLE-Class
+2024,Mercedes-Benz,GLE450 4matic,6,All-Wheel Drive 4WD,Premium,26,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,GLE580 4matic,8,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,GLE-Class
+2024,Mercedes-Benz,GLS450 4matic,6,All-Wheel Drive 4WD,Premium,24,Automatic,Standard SUV,GLS-Class
+2024,Mercedes-Benz,GLS580 4matic,8,All-Wheel Drive 4WD,Premium,20,Automatic,Standard SUV,GLS-Class
+2024,Mercedes-Benz,GLS600 4matic Maybach,8,All-Wheel Drive 4WD,Premium,19,Automatic,Standard SUV,GLS-Class
+2024,Mercedes-Benz,Maybach S680 4matic,12,All-Wheel Drive,Premium,20,Automatic,Large Cars,S-Class
+2024,Mercedes-Benz,S500 4matic,6,All-Wheel Drive,Premium,31,Automatic,Large Cars,S-Class
+2024,Mercedes-Benz,S580 4matic,8,All-Wheel Drive,Premium,27,Automatic,Large Cars,S-Class
+2024,Mercedes-Benz,S580 4matic Maybach,8,All-Wheel Drive,Premium,26,Automatic,Large Cars,S-Class
+2024,MINI,Cooper Convertible,3,Front-Wheel Drive,Premium,38,Automatic,Minicompact Cars,Cooper
+2024,MINI,Cooper Convertible,3,Front-Wheel Drive,Premium,38,Manual,Minicompact Cars,Cooper
+2024,MINI,Cooper Countryman,3,All-Wheel Drive,Premium,31,Automatic,Midsize Cars,Countryman
+2024,MINI,Cooper Countryman,3,Front-Wheel Drive,Premium,32,Automatic,Midsize Cars,Countryman
+2024,MINI,Cooper Hardtop,3,Front-Wheel Drive,Premium,38,Manual,Subcompact Cars,Cooper
+2024,MINI,Cooper Hardtop,3,Front-Wheel Drive,Premium,38,Automatic,Subcompact Cars,Cooper
+2024,MINI,Cooper S Clubman,4,Front-Wheel Drive,Premium,32,Manual,Midsize Cars,Clubman
+2024,MINI,Cooper S Clubman,4,All-Wheel Drive,Premium,32,Automatic,Midsize Cars,Clubman
+2024,MINI,Cooper S Clubman,4,Front-Wheel Drive,Premium,35,Automatic,Midsize Cars,Clubman
+2024,MINI,Cooper S Convertible,4,Front-Wheel Drive,Premium,33,Manual,Minicompact Cars,Cooper
+2024,MINI,Cooper S Convertible,4,Front-Wheel Drive,Premium,36,Automatic,Minicompact Cars,Cooper
+2024,MINI,Cooper S Countryman,4,All-Wheel Drive,Premium,31,Automatic,Midsize Cars,Countryman
+2024,MINI,Cooper S Countryman,4,Front-Wheel Drive,Premium,33,Automatic,Midsize Cars,Countryman
+2024,MINI,Cooper S Hardtop,4,Front-Wheel Drive,Premium,33,Manual,Subcompact Cars,Cooper
+2024,MINI,Cooper S Hardtop,4,Front-Wheel Drive,Premium,38,Automatic,Subcompact Cars,Cooper
+2024,MINI,JCW Countryman,4,All-Wheel Drive,Premium,30,Automatic,Midsize Cars,John Cooper Works
+2024,MINI,John Cooper Works Clubman All4,4,All-Wheel Drive,Premium,31,Automatic,Midsize Cars,John Cooper Works
+2024,MINI,John Cooper Works Convertible,4,Front-Wheel Drive,Premium,33,Automatic,Minicompact Cars,John Cooper Works
+2024,MINI,John Cooper Works Hardtop 2 door,4,Front-Wheel Drive,Premium,35,Automatic,Subcompact Cars,John Cooper Works
+2024,Mitsubishi,Eclipse Cross,4,Front-Wheel Drive 2WD,Regular,28,Automatic,Small SUV,Eclipse Cross
+2024,Mitsubishi,Eclipse Cross,4,4-Wheel Drive,Regular,26,Automatic,Small SUV,Eclipse Cross
+2024,Mitsubishi,Eclipse Cross ES,4,4-Wheel Drive,Regular,28,Automatic,Small SUV,Eclipse Cross
+2024,Mitsubishi,Mirage,3,Front-Wheel Drive,Regular,43,Automatic,Compact Cars,Mirage
+2024,Mitsubishi,Mirage G4,3,Front-Wheel Drive,Regular,41,Automatic,Compact Cars,Mirage
+2024,Mitsubishi,Outlander,4,Front-Wheel Drive 2WD,Regular,31,Automatic,Small SUV,Outlander
+2024,Mitsubishi,Outlander,4,4-Wheel Drive,Regular,30,Automatic,Small SUV,Outlander
+2024,Mitsubishi,Outlander Sport,4,4-Wheel Drive,Regular,29,Automatic,Small SUV,Outlander
+2024,Mitsubishi,Outlander Sport,4,Front-Wheel Drive 2WD,Regular,30,Automatic,Small SUV,Outlander
+2024,Nissan,Altima,4,Front-Wheel Drive,Regular,39,Automatic,Midsize Cars,Altima
+2024,Nissan,Altima,4,All-Wheel Drive,Regular,36,Automatic,Midsize Cars,Altima
+2024,Nissan,Altima SL/SR,4,Front-Wheel Drive,Regular,37,Automatic,Midsize Cars,Altima
+2024,Nissan,Altima SR,4,Front-Wheel Drive,Regular,34,Automatic,Midsize Cars,Altima
+2024,Nissan,Armada,8,4-Wheel Drive,Premium,18,Automatic,Standard SUV,Armada
+2024,Nissan,Armada,8,Rear-Wheel Drive 2WD,Premium,19,Automatic,Standard SUV,Armada
+2024,Nissan,Frontier,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Frontier
+2024,Nissan,Frontier,6,Rear-Wheel Drive 2WD,Regular,24,Automatic,Standard Pickup Truck,Frontier
+2024,Nissan,Frontier PRO4X,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Frontier
+2024,Nissan,GT-R,6,All-Wheel Drive,Premium,22,Automatic,Subcompact Cars,GT-R
+2024,Nissan,Kicks,4,Front-Wheel Drive,Regular,36,Automatic,Midsize Cars,Kicks
+2024,Nissan,Murano,6,Front-Wheel Drive,Regular,28,Automatic,Midsize Station Wagons,Murano
+2024,Nissan,Murano,6,All-Wheel Drive,Regular,28,Automatic,Midsize Station Wagons,Murano
+2024,Nissan,Pathfinder,6,4-Wheel Drive,Regular,27,Automatic,Small SUV,Pathfinder
+2024,Nissan,Pathfinder,6,Front-Wheel Drive 2WD,Regular,27,Automatic,Small SUV,Pathfinder
+2024,Nissan,Pathfinder Platinum,6,4-Wheel Drive,Regular,25,Automatic,Standard SUV,Pathfinder
+2024,Nissan,Pathfinder Rock Creek,6,4-Wheel Drive,Premium,23,Automatic,Small SUV,Pathfinder
+2024,Nissan,Rogue,3,All-Wheel Drive 4WD,Regular,35,Automatic,Small SUV,Rogue
+2024,Nissan,Rogue,3,Front-Wheel Drive 2WD,Regular,37,Automatic,Small SUV,Rogue
+2024,Nissan,Rogue SL/Platinum,3,All-Wheel Drive 4WD,Regular,34,Automatic,Small SUV,Rogue
+2024,Nissan,Rogue SL/Platinum,3,Front-Wheel Drive 2WD,Regular,36,Automatic,Small SUV,Rogue
+2024,Nissan,Sentra,4,Front-Wheel Drive,Regular,40,Automatic,Midsize Cars,Sentra
+2024,Nissan,Sentra SR,4,Front-Wheel Drive,Regular,38,Automatic,Midsize Cars,Sentra
+2024,Nissan,Titan,8,Part-time 4-Wheel Drive,Premium,21,Automatic,Standard Pickup Truck,Titan
+2024,Nissan,Titan,8,Rear-Wheel Drive 2WD,Premium,21,Automatic,Standard Pickup Truck,Titan
+2024,Nissan,Titan PRO4X,8,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Titan
+2024,Nissan,Versa,4,Front-Wheel Drive,Regular,40,Automatic,Compact Cars,Versa
+2024,Nissan,Versa,4,Front-Wheel Drive,Regular,35,Manual,Compact Cars,Versa
+2024,Nissan,Z,6,Rear-Wheel Drive,Premium,28,Automatic,Two Seaters,Z
+2024,Nissan,Z,6,Rear-Wheel Drive,Premium,24,Manual,Two Seaters,Z
+2024,Porsche,718 Boxster,4,Rear-Wheel Drive,Premium,27,Automatic,Two Seaters,718
+2024,Porsche,718 Boxster,4,Rear-Wheel Drive,Premium,25,Manual,Two Seaters,718
+2024,Porsche,718 Boxster GTS,6,Rear-Wheel Drive,Premium,24,Manual,Two Seaters,718
+2024,Porsche,718 Boxster GTS,6,Rear-Wheel Drive,Premium,24,Automatic,Two Seaters,718
+2024,Porsche,718 Boxster S,4,Rear-Wheel Drive,Premium,25,Automatic,Two Seaters,718
+2024,Porsche,718 Boxster S,4,Rear-Wheel Drive,Premium,24,Manual,Two Seaters,718
+2024,Porsche,718 Cayman,4,Rear-Wheel Drive,Premium,27,Automatic,Two Seaters,718
+2024,Porsche,718 Cayman,4,Rear-Wheel Drive,Premium,25,Manual,Two Seaters,718
+2024,Porsche,718 Cayman GTS,6,Rear-Wheel Drive,Premium,24,Manual,Two Seaters,718
+2024,Porsche,718 Cayman GTS,6,Rear-Wheel Drive,Premium,24,Automatic,Two Seaters,718
+2024,Porsche,718 Cayman S,4,Rear-Wheel Drive,Premium,24,Manual,Two Seaters,718
+2024,Porsche,718 Cayman S,4,Rear-Wheel Drive,Premium,25,Automatic,Two Seaters,718
+2024,Porsche,718 GT4 RS,6,Rear-Wheel Drive,Premium,19,Automatic,Two Seaters,718
+2024,Porsche,718 Spyder RS,6,Rear-Wheel Drive,Premium,19,Automatic,Two Seaters,718
+2024,Porsche,911 Carrera,6,Rear-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4,6,All-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4 Cabriolet,6,All-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4 GTS,6,All-Wheel Drive,Premium,23,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera 4 GTS,6,All-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4 GTS Cabriolet,6,All-Wheel Drive,Premium,22,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4 GTS Cabriolet,6,All-Wheel Drive,Premium,23,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera 4S,6,All-Wheel Drive,Premium,25,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera 4S,6,All-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4S Cabriolet,6,All-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera 4S Cabriolet,6,All-Wheel Drive,Premium,24,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera Cabriolet,6,Rear-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera GTS,6,Rear-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera GTS,6,Rear-Wheel Drive,Premium,24,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera GTS Cabriolet,6,Rear-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera GTS Cabriolet,6,Rear-Wheel Drive,Premium,24,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera S,6,Rear-Wheel Drive,Premium,25,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera S,6,Rear-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera S Cabriolet,6,Rear-Wheel Drive,Premium,25,Manual,Minicompact Cars,911
+2024,Porsche,911 Carrera S Cabriolet,6,Rear-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera T,6,Rear-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Carrera T,6,Rear-Wheel Drive,Premium,25,Manual,Minicompact Cars,911
+2024,Porsche,911 Dakar,6,All-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 GT3,6,Rear-Wheel Drive,Premium,19,Manual,Two Seaters,911
+2024,Porsche,911 GT3,6,Rear-Wheel Drive,Premium,18,Automatic,Two Seaters,911
+2024,Porsche,911 GT3 RS,6,Rear-Wheel Drive,Premium,18,Automatic,Two Seaters,911
+2024,Porsche,911 GT3 Touring,6,Rear-Wheel Drive,Premium,19,Manual,Two Seaters,911
+2024,Porsche,911 GT3 Touring,6,Rear-Wheel Drive,Premium,18,Automatic,Two Seaters,911
+2024,Porsche,911 S/T,6,Rear-Wheel Drive,Premium,19,Manual,Two Seaters,911
+2024,Porsche,911 Targa 4,6,All-Wheel Drive,Premium,24,Automatic,Minicompact Cars,911
+2024,Porsche,911 Targa 4 GTS,6,All-Wheel Drive,Premium,23,Manual,Minicompact Cars,911
+2024,Porsche,911 Targa 4 GTS,6,All-Wheel Drive,Premium,22,Automatic,Minicompact Cars,911
+2024,Porsche,911 Targa 4S,6,All-Wheel Drive,Premium,23,Automatic,Minicompact Cars,911
+2024,Porsche,911 Targa 4S,6,All-Wheel Drive,Premium,24,Manual,Minicompact Cars,911
+2024,Porsche,911 Turbo,6,All-Wheel Drive,Premium,21,Automatic,Minicompact Cars,911
+2024,Porsche,911 Turbo Cabriolet,6,All-Wheel Drive,Premium,20,Automatic,Minicompact Cars,911
+2024,Porsche,911 Turbo S,6,All-Wheel Drive,Premium,20,Automatic,Minicompact Cars,911
+2024,Porsche,911 Turbo S Cabriolet,6,All-Wheel Drive,Premium,20,Automatic,Minicompact Cars,911
+2024,Porsche,Cayenne,6,All-Wheel Drive 4WD,Premium,23,Automatic,Standard SUV,Cayenne
+2024,Porsche,Cayenne Coupe,6,All-Wheel Drive 4WD,Premium,23,Automatic,Standard SUV,Cayenne
+2024,Porsche,Cayenne S,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,Cayenne
+2024,Porsche,Cayenne S Coupe,8,All-Wheel Drive 4WD,Premium,21,Automatic,Standard SUV,Cayenne
+2024,Porsche,Macan,4,All-Wheel Drive 4WD,Premium,25,Automatic,Small SUV,Macan
+2024,Porsche,Macan GTS,6,All-Wheel Drive 4WD,Premium,22,Automatic,Small SUV,Macan
+2024,Porsche,Macan S,6,All-Wheel Drive 4WD,Premium,23,Automatic,Small SUV,Macan
+2024,Porsche,Macan T,4,All-Wheel Drive 4WD,Premium,25,Automatic,Small SUV,Macan
+2024,Porsche,Panamera 4,6,All-Wheel Drive,Premium,25,Automatic,Large Cars,Panamera
+2024,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500,6,Rear-Wheel Drive 2WD,Regular,25,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500,8,Rear-Wheel Drive 2WD,Midgrade,23,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500,8,4-Wheel Drive,Midgrade,22,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,6,Rear-Wheel Drive 2WD,Regular,25,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,8,Rear-Wheel Drive 2WD,Midgrade,21,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,8,4-Wheel Drive,Midgrade,20,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 HFE,6,Rear-Wheel Drive 2WD,Regular,26,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 TRX,8,4-Wheel Drive,Premium,14,Automatic,Standard Pickup Truck,1500
+2024,Rolls-Royce,Cullinan,12,All-Wheel Drive,Premium,19,Automatic,Midsize Station Wagons,Cullinan
+2024,Rolls-Royce,Cullinan Black Badge,12,All-Wheel Drive,Premium,19,Automatic,Midsize Station Wagons,Cullinan
+2024,Rolls-Royce,Ghost,12,All-Wheel Drive,Premium,19,Automatic,Large Cars,Ghost
+2024,Rolls-Royce,Ghost Black Badge,12,All-Wheel Drive,Premium,19,Automatic,Large Cars,Ghost
+2024,Rolls-Royce,Ghost Extended,12,All-Wheel Drive,Premium,19,Automatic,Large Cars,Ghost
+2024,Rolls-Royce,Phantom,12,Rear-Wheel Drive,Premium,18,Automatic,Large Cars,Phantom
+2024,Rolls-Royce,Phantom Extended,12,Rear-Wheel Drive,Premium,18,Automatic,Large Cars,Phantom
+2024,Subaru,Ascent,4,All-Wheel Drive 4WD,Regular,26,Automatic,Standard SUV,Ascent
+2024,Subaru,Ascent Limited/Touring/Onyx,4,All-Wheel Drive 4WD,Regular,25,Automatic,Standard SUV,Ascent
+2024,Subaru,BRZ,4,Rear-Wheel Drive,Premium,27,Manual,Minicompact Cars,BRZ
+2024,Subaru,BRZ,4,Rear-Wheel Drive,Premium,30,Automatic,Minicompact Cars,BRZ
+2024,Subaru,Crosstrek,4,All-Wheel Drive 4WD,Regular,33,Automatic,Small SUV,Crosstrek
+2024,Subaru,Crosstrek Wilderness,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Crosstrek
+2024,Subaru,Forester,4,All-Wheel Drive 4WD,Regular,33,Automatic,Small SUV,Forester
+2024,Subaru,Forester Wilderness,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Forester
+2024,Subaru,Impreza,4,All-Wheel Drive,Regular,33,Automatic,Small Station Wagons,Impreza
+2024,Subaru,Legacy,4,All-Wheel Drive,Regular,35,Automatic,Midsize Cars,Legacy
+2024,Subaru,Outback,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Outback
+2024,Subaru,Outback Wilderness,4,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Outback
+2024,Subaru,WRX,4,All-Wheel Drive,Premium,26,Manual,Midsize Cars,WRX
+2024,Subaru,WRX,4,All-Wheel Drive,Premium,25,Automatic,Midsize Cars,WRX
+2024,Toyota,4Runner,6,Rear-Wheel Drive 2WD,Regular,19,Automatic,Standard SUV,4Runner
+2024,Toyota,4Runner,6,Part-time 4-Wheel Drive,Regular,19,Automatic,Standard SUV,4Runner
+2024,Toyota,4Runner,6,All-Wheel Drive 4WD,Regular,19,Automatic,Standard SUV,4Runner
+2024,Toyota,Camry,6,Front-Wheel Drive,Regular,33,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry LE/SE,4,Front-Wheel Drive,Regular,39,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry LE/SE,4,All-Wheel Drive,Regular,34,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry TRD,6,Front-Wheel Drive,Regular,31,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry XLE/XSE,4,Front-Wheel Drive,Regular,38,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry XLE/XSE,4,All-Wheel Drive,Regular,34,Automatic,Midsize Cars,Camry
+2024,Toyota,Camry XSE,6,Front-Wheel Drive,Regular,32,Automatic,Midsize Cars,Camry
+2024,Toyota,Corolla,4,Front-Wheel Drive,Regular,40,Automatic,Compact Cars,Corolla
+2024,Toyota,Corolla Cross,4,Front-Wheel Drive 2WD,Regular,33,Automatic,Small SUV,Corolla Cross
+2024,Toyota,Corolla Cross,4,All-Wheel Drive 4WD,Regular,31,Automatic,Small SUV,Corolla Cross
+2024,Toyota,Corolla Hatchback,4,Front-Wheel Drive,Regular,41,Automatic,Compact Cars,Corolla
+2024,Toyota,Corolla Hatchback XSE,4,Front-Wheel Drive,Regular,38,Automatic,Compact Cars,Corolla
+2024,Toyota,Crown,4,All-Wheel Drive,Regular,32,Automatic,Midsize Cars,Crown
+2024,Toyota,GR 86,4,Rear-Wheel Drive,Premium,30,Automatic,Minicompact Cars,GR 86
+2024,Toyota,GR 86,4,Rear-Wheel Drive,Premium,26,Manual,Minicompact Cars,GR 86
+2024,Toyota,GR Corolla,3,All-Wheel Drive,Premium,28,Manual,Subcompact Cars,Corolla
+2024,Toyota,GR Supra,4,Rear-Wheel Drive,Premium,31,Automatic,Two Seaters,GR Supra
+2024,Toyota,GR Supra,6,Rear-Wheel Drive,Premium,27,Manual,Two Seaters,GR Supra
+2024,Toyota,GR Supra,6,Rear-Wheel Drive,Premium,31,Automatic,Two Seaters,GR Supra
+2024,Toyota,Grand Highlander LE/XLE,4,All-Wheel Drive 4WD,Regular,27,Automatic,Standard SUV,Grand Highlander
+2024,Toyota,Grand Highlander LE/XLE,4,Front-Wheel Drive 2WD,Regular,28,Automatic,Standard SUV,Grand Highlander
+2024,Toyota,Grand Highlander Limited,4,Front-Wheel Drive 2WD,Regular,28,Automatic,Standard SUV,Grand Highlander
+2024,Toyota,Grand Highlander Limited/Platinum,4,All-Wheel Drive 4WD,Regular,26,Automatic,Standard SUV,Grand Highlander
+2024,Toyota,Highlander,4,Front-Wheel Drive 2WD,Regular,29,Automatic,Small SUV,Highlander
+2024,Toyota,Highlander,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small SUV,Highlander
+2024,Toyota,Land Cruiser,4,4-Wheel Drive,Premium,25,Automatic,Standard SUV,Land Cruiser
+2024,Toyota,Prius,4,Part-time 4-Wheel Drive,Regular,54,Automatic,Midsize Cars,Prius
+2024,Toyota,Prius,4,Front-Wheel Drive,Regular,56,Automatic,Midsize Cars,Prius
+2024,Toyota,Prius XLE/LTD,4,Part-time 4-Wheel Drive,Regular,50,Automatic,Midsize Cars,Prius
+2024,Toyota,Prius XLE/LTD,4,Front-Wheel Drive,Regular,52,Automatic,Midsize Cars,Prius
+2024,Toyota,RAV4,4,All-Wheel Drive 4WD,Regular,33,Automatic,Small SUV,RAV4
+2024,Toyota,RAV4,4,Front-Wheel Drive 2WD,Regular,35,Automatic,Small SUV,RAV4
+2024,Toyota,RAV4 LE,4,All-Wheel Drive 4WD,Regular,34,Automatic,Small SUV,RAV4
+2024,Toyota,RAV4 TRD Offroad,4,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,RAV4
+2024,Toyota,Sequoia,6,Rear-Wheel Drive 2WD,Regular,24,Automatic,Standard SUV,Sequoia
+2024,Toyota,Sequoia,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard SUV,Sequoia
+2024,Toyota,Sienna,4,All-Wheel Drive 4WD,Regular,36,Automatic,Minivan,Sienna
+2024,Toyota,Sienna,4,Front-Wheel Drive 2WD,Regular,36,Automatic,Minivan,Sienna
+2024,Toyota,Tacoma,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma,4,Part-time 4-Wheel Drive,Regular,23,Manual,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma,4,Rear-Wheel Drive 2WD,Regular,26,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma SR5/Sport/Off-Road/Limited,4,Part-time 4-Wheel Drive,Regular,23,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma SR5/Sport/PreRunner,4,Rear-Wheel Drive 2WD,Regular,24,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tundra,6,Rear-Wheel Drive 2WD,Premium,24,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra,6,Part-time 4-Wheel Drive,Premium,23,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra,6,Rear-Wheel Drive 2WD,Regular,23,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Venza,4,All-Wheel Drive 4WD,Regular,37,Automatic,Small SUV,Venza
+2024,Volkswagen,Arteon 4motion,4,All-Wheel Drive,Premium,30,Automatic,Large Cars,Arteon
+2024,Volkswagen,Atlas,4,Front-Wheel Drive 2WD,Regular,27,Automatic,Small SUV,Atlas
+2024,Volkswagen,Atlas 4motion Peak Edition,4,All-Wheel Drive 4WD,Regular,24,Automatic,Small SUV,Atlas
+2024,Volkswagen,Atlas Cross Sport,4,Front-Wheel Drive 2WD,Regular,27,Automatic,Small SUV,Atlas
+2024,Volkswagen,Atlas Cross Sport 4motion,4,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Atlas
+2024,Volkswagen,Atlas SE 4motion,4,All-Wheel Drive 4WD,Regular,26,Automatic,Small SUV,Atlas
+2024,Volkswagen,Atlas SEL 4motion,4,All-Wheel Drive 4WD,Regular,25,Automatic,Small SUV,Atlas
+2024,Volkswagen,GLI,4,Front-Wheel Drive,Regular,35,Manual,Compact Cars,GLI
+2024,Volkswagen,GTI,4,Front-Wheel Drive,Regular,34,Manual,Compact Cars,Golf/GTI
+2024,Volkswagen,GTI,4,Front-Wheel Drive,Regular,33,Automatic,Compact Cars,Golf/GTI
+2024,Volkswagen,Jetta,4,Front-Wheel Drive,Regular,41,Automatic,Compact Cars,Jetta
+2024,Volkswagen,Jetta,4,Front-Wheel Drive,Regular,42,Manual,Compact Cars,Jetta
+2024,Volkswagen,Jetta Sport/SE/SEL,4,Front-Wheel Drive,Regular,40,Automatic,Compact Cars,Jetta
+2024,Volkswagen,Taos,4,Front-Wheel Drive 2WD,Regular,36,Automatic,Small SUV,Taos
+2024,Volkswagen,Taos 4motion,4,All-Wheel Drive 4WD,Regular,32,Automatic,Small SUV,Taos
+2024,Volkswagen,Tiguan,4,Front-Wheel Drive 2WD,Regular,30,Automatic,Small SUV,Tiguan
+2024,Volkswagen,Tiguan 4motion,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Tiguan
+2024,Volkswagen,Tiguan R-Line 4motion,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small SUV,Tiguan
+2024,Volkswagen,Tiguan S,4,Front-Wheel Drive 2WD,Regular,31,Automatic,Small SUV,Tiguan
+2024,Volvo,S60 B5,4,All-Wheel Drive,Premium,33,Automatic,Compact Cars,S60
+2024,Volvo,S60 B5,4,Front-Wheel Drive,Premium,35,Automatic,Compact Cars,S60
+2024,Volvo,S90 B6,4,All-Wheel Drive,Premium,31,Automatic,Midsize Cars,S90
+2024,Volvo,V60CC B5,4,All-Wheel Drive,Premium,31,Automatic,Small Station Wagons,V60
+2024,Volvo,V90CC B6,4,All-Wheel Drive,Premium,29,Automatic,Midsize Station Wagons,V90
+2024,Volvo,XC40 B5,4,All-Wheel Drive 4WD,Premium,30,Automatic,Small SUV,XC40
+2024,Volvo,XC60 B5,4,All-Wheel Drive 4WD,Premium,28,Automatic,Small SUV,XC60
+2024,Volvo,XC90 B5,4,All-Wheel Drive 4WD,Premium,27,Automatic,Standard SUV,XC90
+2024,Volvo,XC90 B6,4,All-Wheel Drive 4WD,Premium,26,Automatic,Standard SUV,XC90
