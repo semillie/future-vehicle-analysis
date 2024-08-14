@@ -20,7 +20,7 @@ GROUP BY
 ORDER BY
   average_price
 ```
-<img width="328" alt="average_price_year" src="https://github.com/user-attachments/assets/5f7b50f0-5b80-46b6-86ae-2d5f5e425e31">
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/3d45778b-2c14-4036-a06e-6844c701921a">
 
 -----
 **2. What is the average price based on make?**
@@ -35,7 +35,7 @@ GROUP BY
 ORDER BY
   average_price
 ```
-<img width="407" alt="average_price_make" src="https://github.com/user-attachments/assets/e8145b5c-99ec-4e09-957a-6c994630d810">
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/61740f38-4438-47dd-ba36-5ca088073075">
 
 -----
 **3. How many vehicles meet the price preference?**
@@ -49,7 +49,8 @@ WHERE
 ORDER BY
   make
 ```
-<img width="1208" alt="vehicle_final_count" src="https://github.com/user-attachments/assets/a6e86814-5499-4854-af1f-2eb192d7c583">
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/57bbb44c-49a2-4706-80c4-21182adec277">
+
 -----
 
 **Conclusion**
