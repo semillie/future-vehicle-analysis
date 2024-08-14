@@ -1,6 +1,6 @@
 ## 3. Vehicle Requirement Research
 
-Here we will sort the data based on all the requirements that were listed. 
+Here I sort the data based on all the requirements that were listed. 
 I could do this based off of the truck datatable that I made, but thought it would be more fun to do a WHERE clause with multiple operators.
 
 -----
@@ -18,7 +18,7 @@ Required Specs:
 
 -----
 
-Here we will make a new datatable for only the vehicles that meet all the requirements
+Here I make a new datatable for only the vehicles that meet all the requirements
 ```
 SELECT  
   *
