@@ -1,8 +1,8 @@
 ## 5. Vehicle Add-On Feature Research
 
-By minimizing the future vehicle list by requirements and preferences, there are 46 vehicles left that could be the future vehicle
+By minimizing the future vehicle list by requirements and preferences, there are 46 vehicles left that could be the future vehicle.
 
-To further determine the result, I acquired further data for add-on features
+To further determine the result, I acquired further data for add-on features.
 This dataset is the vehicle_features.csv.
 
 -----
@@ -54,7 +54,7 @@ ORDER BY
 <img width="327" alt="image" src="https://github.com/user-attachments/assets/5ae697a3-9da7-4d49-a7e0-989c2e659772">
 
 -----
-**3. which manufacterur has the most options for the overall years and the individual years?**
+**3. Which manufacturer has the most options for the overall years and the individual years?**
 
 ```
 SELECT  
@@ -76,6 +76,6 @@ ORDER BY
 -----
 **Conclusion**
 
-After adding the additional data and filtering out for the preferenced add-on features, 26 vehicles remained
-Of those 26 results, the year with the most vehicle options was a tie between 2022 and 2023 with nine options each. 2024 wasn't far behind with eight options.
-The make (manufacturers/car brands) with the most options over the three years was Ford
+After adding the additional data and filtering out for the preferred add-on features, 26 vehicles remained
+Of those 26 results, the year with the most vehicle options were a tie between 2022 and 2023 with nine options each. 2024 wasn't far behind with eight options.
+The make (manufacturers/car brands) with the most options over the three years was Ford.
