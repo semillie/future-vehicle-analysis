@@ -88,8 +88,8 @@ LIMIT 5
 -----
 **Conclusion**
 
-The make (manufacturers/car brands) that ended up offering the most options for the future vehicle ended up being Ram.
-The year that offered the most options for the top five future vehicle options is 2022, with six options over all.
+The make (manufacturers/car brands) that ended up offering the most options for the future vehicle is Ram.
+The year that offered the most options for the top five future vehicle options is 2022, with six options overall.
 
 However, as seen below, 2022 GMC and 2023 Toyota ended up becoming the top two options for even though Ram had the highest chance.
 
