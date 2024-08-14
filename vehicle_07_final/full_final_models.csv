@@ -1,0 +1,13 @@
+year,make,model,cylinders,drivetrain,fuel_type,hwy_mpg,transmission,size_class,base_model,towing_cap,apple_play,sunroof,keyless_start,price
+2022,Chevrolet,Colorado ZR2,6,4-Wheel Drive,Regular,18,Automatic,Small Pickup Truck,Colorado,13200,true,true,true,44200
+2022,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,F150,13000,true,true,true,40960
+2023,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150,13000,true,true,true,43935
+2022,GMC,Canyon,6,4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Canyon,7600,true,true,true,33995
+2022,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500,11000,true,true,true,40622
+2023,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500,11000,true,true,true,41540
+2024,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500,11000,true,true,true,43055
+2022,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500,12750,true,true,true,38985
+2023,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500,12750,true,true,true,39900
+2024,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500,12750,true,true,true,41415
+2023,Toyota,Tacoma,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Tacoma,6400,true,true,true,38285
+2022,Toyota,Tundra,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Tundra,8300,true,true,true,43250
