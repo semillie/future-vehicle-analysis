@@ -36,7 +36,8 @@ Add-On Feature Specs:
 
 
 Schema:
-<img width="1150" alt="future_car_schema" src="https://github.com/user-attachments/assets/e678c588-d2cd-448c-91cc-b4c6bd29a618">
+<img width="1150" alt="future_car_schema" src="https://github.com/user-attachments/assets/c41c7327-7bae-49c0-8e52-467a5f240bcb">
+
 
 
 ##### Sources
