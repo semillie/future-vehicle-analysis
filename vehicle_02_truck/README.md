@@ -5,13 +5,13 @@ The first and main requirement that was listed was that the size class of the ve
 Here I use SQL to help organize the dataset and observe which make (manufacturers/car brands) and which year (2022 - 2024) will most likely be the future vehicle based on size class requirement.
 
 -----
-1. How many of the 2583 vechiles are listed as trucks?
+1. How many of the 2583 vehicles are listed as trucks?
 2. Which make (manufacturers/car brands) offers the most truck options?
 3. Which year offers the most truck options?
-4. Which  make (manufacturers/car brands) offers the most truck options yearly?
+4. Which make (manufacturers/car brands) offers the most truck options yearly?
 -----
 
-**1. How many of the 2583 vehciles are listed as trucks?**
+**1. How many of the 2583 vehicles are listed as trucks?**
 ```
 SELECT
   COUNT(size_class) AS truck_count
@@ -23,9 +23,9 @@ WHERE
 
 -----
 
-**2. Which make(manufacturers/car brands) offers the most truck options?**
+**2. Which make (manufacturers/car brands) offers the most truck options?**
 
-Here I decided to save a datatable of the data where the vehicles are trucks
+Here I decided to save a data-table of the data where the vehicles are trucks:
 
 ```
 SELECT
@@ -71,7 +71,7 @@ ORDER BY
 
 -----
 
-**4. Which make(manufacturers/car brands) offers the most truck options yearly?**
+**4. Which make (manufacturers/car brands) offers the most truck options yearly?**
 ```
 SELECT
   make AS vehicle_truck_2022 -- change year to 2023, then 2024
