@@ -1,6 +1,6 @@
 ## 4. Vehicle Preference Research
 -----
-Next we will continute to minimize the data to find the top results by now including the preferred list of specifications. 
+Next I will continue to minimize the data to find the top results by now including the preferred list of specifications
 
 -----
 ```
@@ -74,6 +74,6 @@ ORDER BY
 **Conclusion**
 
 From the research done on preferences added to the vehicle options:
-The make (manufacturers/car brands) that offers the most options is Ford.
-The year that offers the most options is a tie between 2022 and 2024.
-And the make (manufacturers/car brands) of the individual years was Ford for all three.
+The make (manufacturers/car brands) that offers the most options is Ford
+The year that offers the most options is a tie between 2022 and 2024
+And the make (manufacturers/car brands) of the individual years was Ford for all three
