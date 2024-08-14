@@ -2,7 +2,7 @@
 ### First Requirement - Size Class
 -----
 The first and main requirement that was listed was that the size class of the vehicle was to be a truck.
-Here we will use SQL to help organize the dataset and observe which make (manufacturers/car brands) and which year (2022 - 2024) will most likely be our future vehicle based on size class requirement.
+Here I use SQL to help organize the dataset and observe which make (manufacturers/car brands) and which year (2022 - 2024) will most likely be the future vehicle based on size class requirement.
 
 -----
 1. How many of the 2583 vechiles are listed as trucks?
