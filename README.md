@@ -5,6 +5,7 @@ research using SQL to help pick out new car
 - original data stored in .xlsx form
 - step by step research stored in .csv form
 - the sql code of each step is listed in the 'readme' of each individual file
+- visuals were developed on tableau
 
 ### The Research
 I compiled a list of specifications wanted for the future vehicle. I then organized the list based off which specifications were required and which were preferred. I knew that this would still leave me with a decent sized list to base a decision on, so I also included a list of possible add-on features that I would like to be included in the vehicle. The data that I was able to find for the specifications of the vehicles did not include current price or add-on features so I conducted further research.
