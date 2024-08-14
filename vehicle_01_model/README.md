@@ -21,9 +21,9 @@ ORDER BY
   make_count DESC
 LIMIT 5
 ```
-<img width="400" alt="vehicle_model_count" src="https://github.com/user-attachments/assets/50fca359-df23-4e46-a4a8-3f208be06db3">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/583545c5-6f52-41da-aa3f-8291333a7692">
 
-![vehicle_model_count](https://github.com/user-attachments/assets/f851c116-16bd-4fd2-88be-7443a4bba1d4)
+![image](https://github.com/user-attachments/assets/22578ca6-8375-48a1-896e-37f0dcf25265)
 
 -----
 **2. Which year offers the most vehicle options?**
@@ -38,7 +38,7 @@ GROUP BY
 ORDER BY
   vehicle_count DESC
 ```
-<img width="323" alt="vehicle_model_yearly" src="https://github.com/user-attachments/assets/2a948353-dfab-4761-8203-018fc2335d0c">
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/1ce54f1e-5ef3-4813-a60f-4779d68df267">
 
 -----
 **3. Which make (manufacturers/car brands) of each year offers the most vehicle options?**
@@ -56,9 +56,11 @@ ORDER BY
   vehicle_count DESC
 LIMIT 5
 ```
-<img width="397" alt="model_count_2022" src="https://github.com/user-attachments/assets/45a678ba-e8ea-4f2c-8014-e66beae657ad"><img width="399" alt="model_count_2023" src="https://github.com/user-attachments/assets/0e8e315b-6fc7-4bc8-9e33-4c5cc4b6218c"><img width="399" alt="model_count_2024" src="https://github.com/user-attachments/assets/0759990a-3cc9-4241-9095-833826c213de">
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/d3921c9a-3ec8-4502-8d16-2fd985b890b4">
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/b0ff9d35-f1b9-4f48-862e-cb823eda2e49">
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/58375162-68b2-4ad6-9bf6-426770043919">
 
-<img width="601" alt="vehicle_model_year" src="https://github.com/user-attachments/assets/39246d32-b79e-4b59-a7f5-5f94bd26a38c">
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/08a57d58-9f0a-4249-948d-caa211f8ee7c">
 
 ----
 **Conclusion**
