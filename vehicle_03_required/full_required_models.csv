@@ -1,0 +1,124 @@
+year,make,model,cylinders,drivetrain,fuel_type,hwy_mpg,transmission,size_class,base_model
+2022,Chevrolet,Colorado,4,4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Colorado
+2022,Chevrolet,Colorado,4,4-Wheel Drive,Diesel,28,Automatic,Small Pickup Truck,Colorado
+2022,Chevrolet,Colorado,6,4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Colorado
+2023,Chevrolet,Colorado,4,4-Wheel Drive,Regular,23,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado,4,4-Wheel Drive,Regular,23,Automatic,Small Pickup Truck,Colorado
+2022,Chevrolet,Colorado ZR2,4,4-Wheel Drive,Diesel,22,Automatic,Small Pickup Truck,Colorado
+2022,Chevrolet,Colorado ZR2,6,4-Wheel Drive,Regular,18,Automatic,Small Pickup Truck,Colorado
+2023,Chevrolet,Colorado ZR2,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado ZR2,4,4-Wheel Drive,Regular,17,Automatic,Small Pickup Truck,Colorado
+2024,Chevrolet,Colorado ZR2 Bison,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Colorado
+2022,Chevrolet,Silverado,4,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Silverado
+2022,Chevrolet,Silverado,6,4-Wheel Drive,Diesel,26,Automatic,Standard Pickup Truck,Silverado
+2022,Chevrolet,Silverado,8,4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Silverado
+2022,Chevrolet,Silverado,8,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Silverado
+2023,Chevrolet,Silverado,4,4-Wheel Drive,Regular,21,Automatic,Standard Pickup Truck,Silverado
+2023,Chevrolet,Silverado,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Silverado
+2023,Chevrolet,Silverado,8,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Silverado
+2023,Chevrolet,Silverado,8,4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,4,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,6,4-Wheel Drive,Diesel,24,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,8,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado,8,4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Silverado
+2022,Chevrolet,Silverado ZR2,8,4-Wheel Drive,Premium,17,Automatic,Standard Pickup Truck,Silverado
+2023,Chevrolet,Silverado ZR2,8,4-Wheel Drive,Premium,17,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado ZR2,6,4-Wheel Drive,Diesel,22,Automatic,Standard Pickup Truck,Silverado
+2024,Chevrolet,Silverado ZR2,8,4-Wheel Drive,Premium,17,Automatic,Standard Pickup Truck,Silverado
+2022,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,F150
+2023,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Pickup,6,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Pickup,8,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,F150
+2022,Ford,F150 Pickup Tremor,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,F150
+2023,Ford,F150 Pickup Tremor,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,F150
+2022,Ford,F150 Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,F150
+2023,Ford,F150 Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,F150
+2024,Ford,F150 Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,F150
+2022,Ford,Maverick,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small Pickup Truck,Maverick
+2023,Ford,Maverick,4,All-Wheel Drive 4WD,Regular,28,Automatic,Small Pickup Truck,Maverick
+2024,Ford,Maverick,4,All-Wheel Drive 4WD,Regular,29,Automatic,Small Pickup Truck,Maverick
+2023,Ford,Maverick Tremor,4,All-Wheel Drive 4WD,Regular,24,Automatic,Small Pickup Truck,Maverick
+2024,Ford,Maverick Tremor,4,All-Wheel Drive 4WD,Regular,24,Automatic,Small Pickup Truck,Maverick
+2022,Ford,Ranger,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,Ranger
+2023,Ford,Ranger,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Ranger
+2024,Ford,Ranger Raptor,6,Part-time 4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,Ranger
+2022,Ford,Ranger Tremor,4,Part-time 4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Ranger
+2023,Ford,Ranger Tremor,4,Part-time 4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Ranger
+2022,GMC,Canyon,4,4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Canyon
+2022,GMC,Canyon,4,4-Wheel Drive,Diesel,28,Automatic,Small Pickup Truck,Canyon
+2022,GMC,Canyon,6,4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Canyon
+2023,GMC,Canyon,4,4-Wheel Drive,Regular,21,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon,4,4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Canyon
+2023,GMC,Canyon AT4X,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon AT4X,4,4-Wheel Drive,Regular,17,Automatic,Small Pickup Truck,Canyon
+2024,GMC,Canyon AT4X AEV,4,4-Wheel Drive,Regular,16,Automatic,Small Pickup Truck,Canyon
+2022,GMC,Sierra,4,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Sierra
+2022,GMC,Sierra,6,4-Wheel Drive,Diesel,26,Automatic,Standard Pickup Truck,Sierra
+2022,GMC,Sierra,8,4-Wheel Drive,Premium,19,Automatic,Standard Pickup Truck,Sierra
+2022,GMC,Sierra,8,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Sierra
+2023,GMC,Sierra,4,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Sierra
+2023,GMC,Sierra,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Sierra
+2023,GMC,Sierra,8,4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Sierra
+2023,GMC,Sierra,8,4-Wheel Drive,Premium,19,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,4,4-Wheel Drive,Regular,18,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,8,4-Wheel Drive,Regular,19,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra,8,4-Wheel Drive,Premium,19,Automatic,Standard Pickup Truck,Sierra
+2023,GMC,Sierra AT4X,8,4-Wheel Drive,Premium,17,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra AT4X,6,4-Wheel Drive,Diesel,20,Automatic,Standard Pickup Truck,Sierra
+2024,GMC,Sierra AT4X,8,4-Wheel Drive,Premium,16,Automatic,Standard Pickup Truck,Sierra
+2022,Honda,Ridgeline,6,All-Wheel Drive 4WD,Regular,24,Automatic,Standard Pickup Truck,Ridgeline
+2023,Honda,Ridgeline,6,All-Wheel Drive 4WD,Regular,24,Automatic,Standard Pickup Truck,Ridgeline
+2024,Honda,Ridgeline,6,All-Wheel Drive 4WD,Regular,24,Automatic,Standard Pickup Truck,Ridgeline
+2024,Honda,Ridgeline TrailSport,6,All-Wheel Drive 4WD,Regular,23,Automatic,Standard Pickup Truck,Ridgeline
+2022,Jeep,Gladiator,6,4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Gladiator
+2023,Jeep,Gladiator,6,4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Gladiator
+2024,Jeep,Gladiator,6,4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Gladiator
+2022,Jeep,Gladiator EcoDiesel,6,4-Wheel Drive,Diesel,28,Automatic,Standard Pickup Truck,Gladiator
+2023,Jeep,Gladiator EcoDiesel,6,4-Wheel Drive,Diesel,28,Automatic,Standard Pickup Truck,Gladiator
+2022,Jeep,Gladiator Rubic EcoDiesel,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Gladiator
+2023,Jeep,Gladiator Rubic EcoDiesel,6,4-Wheel Drive,Diesel,27,Automatic,Standard Pickup Truck,Gladiator
+2022,Nissan,Frontier,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Frontier
+2023,Nissan,Frontier,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Frontier
+2024,Nissan,Frontier,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Frontier
+2023,Nissan,Frontier PRO4X,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Frontier
+2024,Nissan,Frontier PRO4X,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Frontier
+2022,Nissan,Titan,8,Part-time 4-Wheel Drive,Premium,21,Automatic,Standard Pickup Truck,Titan
+2023,Nissan,Titan,8,Part-time 4-Wheel Drive,Premium,21,Automatic,Standard Pickup Truck,Titan
+2024,Nissan,Titan,8,Part-time 4-Wheel Drive,Premium,21,Automatic,Standard Pickup Truck,Titan
+2022,Nissan,Titan PRO4X,8,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Titan
+2023,Nissan,Titan PRO4X,8,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Titan
+2024,Nissan,Titan PRO4X,8,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Titan
+2022,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500
+2022,Ram,1500,6,4-Wheel Drive,Diesel,29,Automatic,Standard Pickup Truck,1500
+2022,Ram,1500,8,4-Wheel Drive,Midgrade,22,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500,6,4-Wheel Drive,Diesel,29,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500,8,4-Wheel Drive,Midgrade,22,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500,6,4-Wheel Drive,Regular,24,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500,8,4-Wheel Drive,Midgrade,22,Automatic,Standard Pickup Truck,1500
+2022,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500
+2022,Ram,1500 Classic,8,4-Wheel Drive,Midgrade,21,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500 Classic,8,4-Wheel Drive,Midgrade,20,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,6,4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 Classic,8,4-Wheel Drive,Midgrade,20,Automatic,Standard Pickup Truck,1500
+2022,Ram,1500 TRX,8,4-Wheel Drive,Premium,14,Automatic,Standard Pickup Truck,1500
+2023,Ram,1500 TRX,8,4-Wheel Drive,Premium,14,Automatic,Standard Pickup Truck,1500
+2024,Ram,1500 TRX,8,4-Wheel Drive,Premium,14,Automatic,Standard Pickup Truck,1500
+2022,Toyota,Tacoma,4,Part-time 4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Tacoma
+2022,Toyota,Tacoma,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Tacoma
+2023,Toyota,Tacoma,4,Part-time 4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Tacoma
+2023,Toyota,Tacoma,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma,4,Part-time 4-Wheel Drive,Regular,24,Automatic,Small Pickup Truck,Tacoma
+2024,Toyota,Tacoma SR5/Sport/Off-Road/Limited,4,Part-time 4-Wheel Drive,Regular,23,Automatic,Small Pickup Truck,Tacoma
+2022,Toyota,Tundra,6,Part-time 4-Wheel Drive,Regular,23,Automatic,Standard Pickup Truck,Tundra
+2023,Toyota,Tundra,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra,6,Part-time 4-Wheel Drive,Premium,23,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra,6,Part-time 4-Wheel Drive,Regular,22,Automatic,Standard Pickup Truck,Tundra
+2022,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Tundra
+2023,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Premium,20,Automatic,Standard Pickup Truck,Tundra
+2024,Toyota,Tundra PRO,6,Part-time 4-Wheel Drive,Regular,20,Automatic,Standard Pickup Truck,Tundra
