@@ -1,4 +1,4 @@
-## Vehicle Truck Research
+## 2. Vehicle Model Research - Truck
 ### First Requirement - Size Class
 -----
 The first and main requirement that was listed was that the size class of the vehicle was to be a truck.
