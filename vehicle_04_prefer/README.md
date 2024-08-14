@@ -31,7 +31,7 @@ GROUP BY
 ORDER BY
   vehicle_count DESC
 ```
- <img width="401" alt="make_preferred_count" src="https://github.com/user-attachments/assets/36d0a1f6-db6b-4253-a904-603b044eb419">
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/3c51713d-2919-422e-a074-5f3077277869">
 
 -----
 **2. Which year offers the most vehicle options?**
@@ -46,7 +46,7 @@ GROUP BY
 ORDER BY
   vehicle_count DESC
 ```
-<img width="319" alt="year_preferred_count" src="https://github.com/user-attachments/assets/9268620d-450c-4135-93be-df169f0cdf8e">
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/a4383a9c-7bbe-4ab4-a31d-9f87d7d7771c">
 
 -----
 **3. Which make (manufacturers/car brands) of each year offers the most vehicle options?**
@@ -66,7 +66,9 @@ GROUP BY
 ORDER BY
   vehicle_count DESC
 ```
-<img width="400" alt="preferred_make_2022" src="https://github.com/user-attachments/assets/d9226456-4e97-44da-a31a-d2f4907c040a"><img width="404" alt="preferred_make_2023" src="https://github.com/user-attachments/assets/3dd2d4e5-99e0-4edc-abd8-546aca52cccf"><img width="404" alt="preferred_make_2024" src="https://github.com/user-attachments/assets/ce9dceb6-82f7-440e-9de0-7e5a6179867c">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b33edc0a-2246-4e5b-b64e-ac64f6f297c1">
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/c8bb8ec8-e25d-4e31-b32b-997b0f4dea2b">
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/2fbd47df-8795-4597-880f-779a4db73a26">
 
 -----
 **Conclusion**
