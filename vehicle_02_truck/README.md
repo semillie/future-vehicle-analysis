@@ -19,7 +19,8 @@ FROM my.project
 WHERE
   size_class LIKE '%Truck%'
 ```
-<img width="203" alt="vehicle_truck_count" src="https://github.com/user-attachments/assets/984f5c72-9170-4d37-a178-9087b37155d5">
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/99228919-ab70-43f1-bb0b-fa3c1c0bdd5a">
+
 -----
 
 **2. Which make(manufacturers/car brands) offers the most truck options?**
@@ -49,7 +50,8 @@ GROUP BY
 ORDER BY
   truck_models DESC
 ```
-<img width="403" alt="make_truck_count" src="https://github.com/user-attachments/assets/e4650f5e-ac12-4ab3-ab0f-bca0b769fcc4">
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/48d1adbe-1dd4-4967-aa3b-f7dd13c885cc">
+
 -----
 
 **3. Which year offers the most truck options?**
@@ -65,7 +67,8 @@ GROUP BY
 ORDER BY
   truck_models DESC
 ```
-<img width="325" alt="year_truck_count" src="https://github.com/user-attachments/assets/61b0cbbe-b5a6-4525-8cc0-5817a55a4805">
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/833e0eb0-75ab-4dbc-aef7-dd578adbaa75">
+
 -----
 
 **4. Which make(manufacturers/car brands) offers the most truck options yearly?**
@@ -82,10 +85,11 @@ GROUP BY
 ORDER BY
   truck_models DESC
 ```
-<img width="396" alt="truck_count_2022" src="https://github.com/user-attachments/assets/a8ec732b-602f-4ddf-a253-f853c0d4cf6d"><img width="402" alt="truck_count_2023" src="https://github.com/user-attachments/assets/89b58ab8-36ad-4456-be7c-7330e9c99320"><img width="402" alt="truck_count_2024" src="https://github.com/user-attachments/assets/9da88009-1bb4-4e41-b908-ecb565e68b23">
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/dd5a8a8b-9c26-4288-9144-8a687676fe99">
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/ee5e6214-a57b-4f89-ba69-a5bb36e9792b">
+<img width="402" alt="image" src="https://github.com/user-attachments/assets/007a67c1-15b2-4287-82e4-8e81e9da4d94">
 
-<img width="996" alt="truck_model_year" src="https://github.com/user-attachments/assets/a7b9b0b9-71ec-4a6f-ba4c-1d40a9ad0a2f">
-
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/76db157c-7a94-44d6-bde2-2c70439c25ca">
 
 -----
 **Conclusion**
