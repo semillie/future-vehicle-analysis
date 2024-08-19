@@ -15,7 +15,7 @@ Add-On Feature Specs:
 ```
 -----
 1. How many vehicle options will there be after applying the add-on feature list?
-2. Of that number of vehicle list, how many are from each year?
+2. How many vehicle options does each year offer?
 3. Which manufacturer has the most options for all years combined and each year individually?
 -----
 
@@ -35,7 +35,7 @@ ORDER BY
 <img width="208" alt="image" src="https://github.com/user-attachments/assets/762023dc-976d-4fd3-af64-372c74be49cc">
 
 -----
-**2. Of that vehicle options, how many are from each year?** 
+**2. How many vehicle options does each year offer?** 
 ```
 SELECT
   year,  
