@@ -1,6 +1,8 @@
 # Future Vehicle Research
 Research using SQL to help pick out new vehicle.
+ 
 Step by step analysis of **which year and which make(manufacturers/car brands) offer the most options for the future vehicle** while adding more perimeters to the data.
+
 Furthermore, **which vehicle with the desired specifications is the most affordable**?
 
 ## Contents
