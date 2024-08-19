@@ -59,4 +59,7 @@ Schema:
   ***2022 Rams had the most options available for the future vehicle that met all the requirements and preferences.***
   
   Furthermore, in occurrence with price, the **2022 GMC Canyon is the most affordable option**, listed at $5,000 *lower* than the other options. ***In conclusion, 2022 did hold up to offering the most options and being the most affordable year. However, even though Ram had the most options for a manufacturer/car brand they were not the most affordable option.***
- 
+
+-----
+<img width="1113" alt="image" src="https://github.com/user-attachments/assets/c18334ce-80dd-47a8-a67e-2047d31bedf1">
+<img width="710" alt="image" src="https://github.com/user-attachments/assets/30b6ca70-af68-41a3-9fd8-c9864ef4fbe1">
