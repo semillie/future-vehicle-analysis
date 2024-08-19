@@ -19,13 +19,13 @@ Future Vehicle Requirements / Preferences:
 - priced at 45,000 or lower
 ```
 -----
-1. Which make (manufacturers/car brands) offers the most vehicle options?
+1. Which make (manufacturers/car brands) offers the least vehicle options?
 2. Which year offers the most vehicle options?
 3. Which make (manufacturers/car brands) of each year offers the most vehicle options?
 4. What are the top five options for the future vehicle?
    
 -----
-**1. Which make (manufacturers/car brands) offers the most vehicle options?**
+**1. Which make (manufacturers/car brands) offers the least vehicle options?**
 ```
 SELECT  
   make,
@@ -36,7 +36,7 @@ GROUP BY
 ORDER BY
   vehicle_count
 ```
-<img width="329" alt="image" src="https://github.com/user-attachments/assets/24c670d7-2ae8-4e9b-b8f4-a9f8673a475a">
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/44aa0949-6e2f-4e8f-9d24-a050c2e06f66">
 
 -----
 **2. Which year offers the most vehicle options?**
