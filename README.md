@@ -1,6 +1,7 @@
 # Future Vehicle Research
 Research using SQL to help pick out new vehicle.
-Step by step analysis of which years and which makes(manufacturers/car brands) offer the most options for the future vehicle while adding more perimeters to the data.
+Step by step analysis of **which year and which make(manufacturers/car brands) offer the most options for the future vehicle** while adding more perimeters to the data.
+Furthermore, **which vehicle with the desired specifications is the most affordable**?
 
 ## Contents
 - original data stored in .xlsx form
@@ -43,3 +44,19 @@ Schema:
 
 ##### Sources
   The data that was acquired from Environmental Projection Agency, with further research on specificications and add-ons found through Car and Driver / Hearst Autos, inc., and Kelley's Blue Book
+
+### Conclusion
+  At the start, without any perimeters/qualifications applied to the data, the data was showing that 2022 offered the highest chance for the future vehicle. 
+  As further research and perimeters were applied, there were close calls between which year would end up offering the most options. 
+  Although 2022 originally held the most options, 2024 had the most for what specifications were required. 
+  In the end, the price preference for the vehicle became the tie breaker with the oldest year having the most options - thus **2022 being the choice for the future vehicle year.**
+  
+  As for the manufacturers/car brands that offered the most options for the future vehicle, the original top five were BMW, Porsche, Mercedes-Benz, Ford and Toyota.
+  With the required preferences being applied to the data, Chevrolet had the largest number of vehicle options. 
+  Although Chevrolet held the most options for the requirements, it fell behind quickly once preferred specifications were added. 
+  In the end, **the manufacturer/car brand with the most options that met the full list of qualifications (as well as in each individual year), was Ram.**
+ 
+  ***2022 Rams had the most options available for the future vehicle that met all the requirements and preferences.***
+  
+  Furthermore, in occurrence with price, the **2022 GMC Canyon is the most affordable option**, listed at $5,000 *lower* than the other options. ***In conclusion, 2022 did hold up to offering the most options and being the most affordable year. However, even though Ram had the most options for a manufacturer/car brand they were not the most affordable option.***
+ 
